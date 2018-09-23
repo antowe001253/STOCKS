@@ -1,0 +1,54 @@
+[TIME] Dec 26, 2017---00:57:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Dec 26, 2017---00:57:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.marketwired.com/news_room/all_news/?headlines-only=HLO
+[TIME] Dec 26, 2017---00:57:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 26, 2017---00:57:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] Dec 26, 2017---00:57:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Dec 26, 2017---00:57:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Dec 26, 2017---00:57:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.marketwired.com/news_room/all_news/?headlines-only=HLO
+[TIME] Dec 26, 2017---00:57:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 26, 2017---00:57:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] Dec 26, 2017---01:27:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.marketwired.com/news_room/all_news/?headlines-only=HLO
+[TIME] Dec 26, 2017---01:27:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 26, 2017---01:28:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.marketwired.com/news_room/all_news/?headlines-only=HLO
+[TIME] Dec 26, 2017---01:28:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 26, 2017---01:31:15  Not Send | Ticker: [CMOS] Title: Disposable Medical Sensors market to Attain a Value of $8.9 billion by 2023: P&amp;S Market Research| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/26/1274550/0/en/Disposable-Medical-Sensors-market-to-Attain-a-Value-of-8-9-billion-by-2023-P-S-Market-Research.html
+[TIME] Dec 26, 2017---02:17:12  Not Send | Ticker: [SABR] Title: NANOBIOTIX : FDA approves Nanobiotix&#39;s first Immuno-Oncology trial| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/26/1274554/0/en/NANOBIOTIX-FDA-approves-Nanobiotix-s-first-Immuno-Oncology-trial.html

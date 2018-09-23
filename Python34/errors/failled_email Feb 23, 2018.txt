@@ -1,0 +1,8 @@
+[TIME] Feb 23, 2018---09:30:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Feb 23, 2018---09:30:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true

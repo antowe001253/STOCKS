@@ -1,0 +1,843 @@
+!DOCTYPE hml PUBLIC "-W3CDTD XHTML 10 TanonalEN" "h:wwww3ogTRxhml1DTDxhml1-anonaldd"
+hml xmln="h:wwww3og1999xhml" xmln:fb="h:wwwfaebookom2008fbml" xmln:og="h:ogmen#" lang="en-US" xml:lang="en-US"
+head el="New Room" ulue="en-US"mea hae="uf-8" le
+	Peaak-Gladone Bank Announe Aonmen of Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe a Peaak-Gladone Bank 
+le
+    !--[f IE]
+    mea name="MSSmaTagPevenPang" onen="ue" mea h-equv="mageoolba" onen="no" mea h-equv="leaye" onen="on" 
+    ![endf]--
+    lnk el="ylehee" hef="A_ThemeMakeWeyleeen" ye="ex"
+    lnk hef="yleglobal-uom-newoom-mw_ovede" el="ylehee" ye="ex" 
+     ="h:ajaxmoofomajax35MoofAjaxj" ye="exjava" 
+     ="MoofAjaxWebFomj" ye="exjava" 
+     ye="exjava" ="h:ajaxgoogleaomajaxlbjquey191jqueymnj"
+     ye="exjava" ="A_ThemeMakeWeglobalj"
+     ="h:ajaxgoogleaomajaxlbjquey132jqueymnj" ye="exjava"  
+     ="h:7addhomj250addh_wdgej#uename=xa-4d025fb33e7d3d20"  ye="exjava"
+     ye="exjava"
+        va addh_onfg = {
+            u_lk: ue
+        }
+		va oo = "";
+    
+     ye="exjava" ="jqueyomonenj"
+     ye="exjava" ="globalj"
+     ye="exjava" ="uomj"
+     ye="exjava" ="uom-enj"
+    mea h-equv="onen-ye" onen="exhml; hae=UTF-8"  
+mea h-equv="agma" onen="no-ahe"  
+mea h-equv="onen-yle-ye" onen="ex"  
+mea h-equv="onen--ye" onen="exjava"  
+ 
+lnk hef="favono" ye="magex-on" el="hou on" 
+lnk hef="favono" ye="magex-on" el="on" 
+
+mea name="deon" onen="BEDMINSTER, NJ--Makewed - Nov 28, 2017 - Peaak-Gladone Fnanal Cooaon NASDAQ: PGC and Peaak-Gladone Bank announe he aonmen of Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe a Peaak-Gladone Bank&am;#160;M Gaudoo  now a of he vae bankng eam eonble fo he uung, undewng and ongong monong of Commeal &am;am;" lnk el="alenae" meda="only een and max-wdh: 640x" hef="h:mmakewedome-eleaeeaak-gladone-bank-announe-aonmen-han-gaudoo-eno-ve-eden-nadaq-g-2242109hm" mea oey="og:e_name" onen="Makewe" mea oey="og:ye" onen="ale" mea oey="og:le" onen="Peaak-Gladone Bank Announe Aonmen of Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe a Peaak-Gladone Bank " mea oey="og:mage" onen="h:medamakeweomaahmen20160434052_Peaak-GladoneFnanalCojg" mea oey="og:deon" onen="BEDMINSTER, NJ--Makewed - Nov 28, 2017 - Peaak-Gladone Fnanal Cooaon NASDAQ: PGC and Peaak-Gladone Bank announe he aonmen of Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe a Peaak-Gladone Bank&am;#160;M Gaudoo  now a of he vae bankng eam eonble fo he uung, undewng and ongong monong of Commeal &am;am;" mea oey="og:ul" onen="h:wwwmakewedome-eleaeeaak-gladone-bank-announe-aonmen-han-gaudoo-eno-ve-eden-nadaq-g-2242109hm" lnk el="anonal" hef="h:wwwmakewedome-eleaeeaak-gladone-bank-announe-aonmen-han-gaudoo-eno-ve-eden-nadaq-g-2242109hm" head
+body la="LTR ENUS ConenBody" 
+    fom mehod="o" aon="e-eleaeeaak-gladone-bank-announe-aonmen-han-gaudoo-eno-ve-eden-nadaq-g-2242109ax" d="aneFom"
+dv la="aNeHdden"
+nu ye="hdden" name="__VIEWSTATE" d="__VIEWSTATE" value="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" 
+dv
+
+nu ye="hdden" name="lng" d="lng" value="en-US" 
+ ="SReoueaxdd=kBomIZ49h8b6BvD_zRTRfJ5XZ6vPVTA0jlWUNGKMGngnC-OKjKDOwzQAJB66Cvl1-vyQn1MnkmanvGhH-FdzjZ_ThBA0Ro2R2FnhvHz4Ddzfmqe5zf8lqnePPSVVq4Mq3AwEavA2&am;=3a1336b1" ye="exjava"
+ ye="exjava"
+![CDATA[
+f yeofSy === 'undefned' how new Eo'ASPNET Ajax len-de famewok faled o load';
+]]
+
+
+dv la="aNeHdden"
+
+	nu ye="hdden" name="__EVENTVALIDATION" d="__EVENTVALIDATION" value="wEdAAJSYNWCI2F6d2AwHu97vfE940ev62OjQm0GUoUCG96nLv2bEgwNx6whZ0CwggKAIPCwUwCY8VyZ7qkO" 
+dv
+    dv d="l00_m"
+
+dvdv d="l00_xM"
+
+dv
+
+    
+
+dv la="heade" ole="banne"
+    dv la="wa heade-nne"
+        dv la="gd"
+            dv la="k"
+                a hef="#man_onen"Sk o Man Conena
+                a hef="Se-Ma"Se Maa
+            dv		
+            dv la="gd-ol gd-ol_5of16 mx-gd-ol_hn"
+                dva la="logo" hef=""Makewedadv
+            dv
+            dv la="gd-ol gd-ol_11of16 mx-gd-ol_hn"
+                dv la="heade-exa"
+                    ul la="hL hL_e hL_adMed mx-l_nlne mx-hL_gh"
+                      
+                        la hef="lang=f-a"Fan&edl;aal
+                        la hef="MedaPane"Meda Paneal
+                        la hef="Abou-U"Abou Ual
+                        la hef="h:blogmakewedom"Blogal
+                    
+                    ul
+                    ul la="oalL oalL_ml mx-l_nlne"
+                        la hef="h:wwwfaebookomMakewed" age="_blank"em la="oalIon oalIon_fb"Faebookemal
+                        la hef="h:weomMakewed" age="_blank"em la="oalIon oalIon_w"Tweemal
+                        la hef="h:wwwyouubeomueMakewed" age="_blank"em la="oalIon oalIon_y"YouTubeemal
+                        la hef="h:lnkednomomany18941" age="_blank"em la="oalIon oalIon_l"LnkedInemal
+                        la hef="h:lugoogleom110638383822087243185o" age="_blank"em la="oalIon oalIon_g"Google+emal
+                    ul
+                    dv la="eahMan"
+                    	dv d="eahFom" la="eahFom"                            
+                            nu ye="hdden" d="ye" name="ye" value="keywod" 
+                            nu ye="hdden" d="lang" name="lang" value="en-US" 
+                            label la="Hdden" fo="q"Seahlabel
+                            nu d="q" name="q" la="n n_ne n_huge n_magnfy" ye="ex" laeholde="Seah" 
+                            felde
+                              ul la="doToggle doToggle_ovelad" ole="adogou"
+                                l
+                                    nu la="doToggle-ado" name="eah-ye" ye="ado" d="eah-e" daa-aon="SeSeah" 
+                                    label la="doToggle-label" fo="eah-e"Selabel
+                                l
+                                l
+                                    nu la="doToggle-ado" heked name="eah-ye" ye="ado" d="eah-new" daa-aon="new_oomPeSeah" 
+                                    label la="doToggle-label" fo="eah-new"
+									
+										New
+									
+									label
+                                l
+                              ul
+                            felde
+                        dv
+                    dv
+                dv
+            dv
+        dv
+    dv    
+    
+
+dv la="nav" ole="navgaon"
+    dv la="wa nav-nne"
+        ul la="navMan"
+
+    
+            l la="navMan-em"
+                a la="navSeon" hef="Podu"Podua
+                dv la="menuDo"
+                    dv la="gd"
+                        dv d="l00_Heade_ToMenu_ToMenu_l00_MenuColumn" la="gd-ol gd-ol_doCol mx-gd-ol_fa mx-gd-ol_halfDvde"
+                            ul la="vL vL_ae"
+                                
+                                        l
+                                            a la="lnk_lgh" hef="PoduReonae"Makewed Reonaea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="PoduInfluene"Makewed Influenea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="PoduDbue"New Dbuona
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="PoduIme"IRPR Newoom Imea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="PoduMedahub"Meda Daabae Medahuba
+                                        l
+                                    
+                            ul
+                        dv
+                 
+                        dv la="gd-ol gd-ol_doCol mx-gd-ol_fa mx-gd-ol_halfDvde"
+                            ul la="vL vL_ae"
+                    
+                                la la="lnk_lgh" hef="ConexMenuPoduPoweed-by-Syomo"Poweed by Syomoal
+                    
+                                la la="lnk_lgh" hef="ConexMenuPoduReque-a-Demo"Reque a Demoal
+                    
+                            ul
+                        dv
+                    
+                    dv
+                dv
+            l
+        
+            l la="navMan-em"
+                a la="navSeon" hef="Soluon"Soluona
+                dv la="menuDo"
+                    dv la="gd"
+                        dv d="l00_Heade_ToMenu_ToMenu_l01_MenuColumn" la="gd-ol mx-gd-ol_fa mx-gd-ol_halfDvde"
+                            ul la="vL vL_ae"
+                                
+                                        l
+                                            a la="lnk_lgh" hef="SoluonPubl-Relaon"Publ Relaona
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="SoluonInveo-Relaon"Inveo Relaona
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="SoluonSmall-Bune"Small Bunea
+                                        l
+                                    
+                            ul
+                        dv
+                
+                    dv
+                dv
+            l
+        
+            l la="navMan-em"
+                a la="navSeon" hef="Newoom"Newooma
+                dv la="menuDo"
+                    dv la="gd"
+                        dv d="l00_Heade_ToMenu_ToMenu_l02_MenuColumn" la="gd-ol mx-gd-ol_fa mx-gd-ol_halfDvde"
+                            ul la="vL vL_ae"
+                                
+                                        l
+                                            a la="lnk_lgh" hef="NewoomAll-New"All Newa
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="NewoomHeadlne-Only"Headlne Onlya
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="NewoomAdvaned-Seah"Advaned Seaha
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="NewoomRSS-Newfeed"RSS Newfeeda
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="NewoomHo-Off-he-We"Ho Off he Wea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="NewoomPeonal-Bea"Peonal Beaa
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="NewoomCASL"CASL Comlanea
+                                        l
+                                    
+                            ul
+                        dv
+                
+                    dv
+                dv
+            l
+        
+            l la="navMan-em"
+                a la="navSeon" hef="Reoue"Reouea
+                dv la="menuDo"
+                    dv la="gd"
+                        dv d="l00_Heade_ToMenu_ToMenu_l03_MenuColumn" la="gd-ol mx-gd-ol_fa mx-gd-ol_halfDvde"
+                            ul la="vL vL_ae"
+                                
+                                        l
+                                            a la="lnk_lgh" hef="ReoueBohue"Bohuea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="ReoueCae_Sude"Cae Sudea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="ReoueE-Book-T-Shee"E-Book  T Shee a
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="ReoueWebna-Vdeo"Webna  Vdeoa
+                                        l
+                                    
+                            ul
+                        dv
+                
+                    dv
+                dv
+            l
+        
+            l la="navMan-em"
+                a la="navSeon" hef="Cona-U"Cona Ua
+                dv la="menuDo"
+                    dv la="gd"
+                        dv d="l00_Heade_ToMenu_ToMenu_l04_MenuColumn" la="gd-ol mx-gd-ol_fa mx-gd-ol_halfDvde"
+                            ul la="vL vL_ae"
+                                
+                                        l
+                                            a la="lnk_lgh" hef="Cona-UOu-Loaon"Ou Loaona
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="Cona-UBeome-a-Meda-Pane"Beome a Meda Panea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="Cona-UBeome-a-Channel-Pane"Beome a Channel Panea
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="Cona-UReque-Moe-Infomaon"Reque Moe Infomaona
+                                        l
+                                    
+                                        l
+                                            a la="lnk_lgh" hef="Cona-UReque-A-Demo"Reque a Demoa
+                                        l
+                                    
+                            ul
+                        dv
+                
+                    dv
+                dv
+            l
+        
+		    l la="navMan-em navMan-em_oldfyRemande oldfy"
+			
+			a la="navSeon mx-navSeon_lgh" hef="#"Sgn Ina
+                dv la="menuDo menuDo_bgh menuDo_fl menuDo_fa"
+                    dv la="hd hd_leadng"
+                        h3 la="hdg hdg_h4 mx-hdg_lgh mx-hdg_ne"Whee would you lke o gn nh3
+                    dv
+                    ul la="blok blok_2u blok_adSml"
+                        la la="bn bn_old" hef="h:wwwmakeweommwlogndo"My Makewed Aounal                        
+                        la la="bn bn_old" hef="h:www2makeweommwnewlee_uom_manenane"Peonal Beaal
+                        la la="bn bn_old" hef="h:eonaemakeweom"Makewed Reonaeal
+                        la la="bn bn_old" hef="PoduHo-Off-he-We"Ho Off he Weal
+                        la la="bn bn_old" hef="h:gomakeweom"New Dahboad 20al
+                        la la="bn bn_old" hef="h:www3makeweommedahublogn_newax"Medahubal
+                        la la="bn bn_old" yle="wdh: 266x;" hef="Rege"Rege fo a Makewed Aounal
+                    ul
+                dv
+			
+            l
+        ul
+    dv
+dv
+dv
+
+
+    dv la="man" ole="man" d="man_onen" abndex="-1"
+
+            
+    dv la="ConenPaddng"
+        
+
+!--}--
+
+
+!--m[
+	dv d="myCaouel" la="aouel lde" daa-de="aouel" daa-neval="fale"
+		 
+        dv d="myCaouel-aouel-nne" la="aouel-nne"
+	        dv la="em ave" a d="1" hef="#" dv la="lde-ze" yle="bakgound:ulh:medamakeweomaahmen201711TN-95946_j5a1dd4a59869f20004483e59_1jg ene ene  onan no-eea;"dv adv
+		dv
+	dv
+	dv la="hdden" d="mg-eo"
+		dv d="1" la="em" a el="nofollow" age="_blank" hef="h:medamakeweomaahmen201711MOD-95946_j5a1dd4a59869f20004483e59_1jg"mg la="oue-mage mg-eonve ene-blok" ="h:medamakeweomaahmen201711MOD-95946_j5a1dd4a59869f20004483e59_1jg" a dv la="aouel-aon" a el="nofollow" age="_blank" hef="h:medamakeweomaahmen201711MOD-95946_j5a1dd4a59869f20004483e59_1jg"Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe, Peaak-Gladone Bank a  dv dv
+	dv  
+	
+dv la="modal" d="modal-galley" ole="dalog"
+	dv la="modal-dalog"
+		dv la="modal-onen"
+		  dv la="modal-body" yle="addng:0x !moan;"
+			buon la="bn " daa-dm="modal" yle="bakgound-olo:anaen !moan; olo:#002C40;"
+			    an la="glyhon glyhon-emove"an
+			buon
+			dv d="modal-aouel" la="aouel" yle="addng-boom: 0x !moan;magn: 0x !moan;"
+				dv d="modal-aouel-nne" la="aouel-nne"           
+				dv
+			dv
+		  dv
+		dv
+	dv
+dv
+]m--
+dv d="l00__wagelaeholde_e1_newoomSv"
+    dv d="newoom" la="newoom-oneolumn"
+        dv la="newoom-o"
+        dv
+        dv la="newoom-mddle"
+            dv la="newoom-lef"
+                dv la="newoomlnk"
+                    a hef="new_oom"New Rooma
+                dv
+                !--{--
+                ul la="onol"
+                    l la="oalmedalnk"
+                        ul la="newoom-oal"
+                             la hef="h:wwwfaebookomhaehaehle=Peaak-Gladone+Bank+Announe+Aonmen+of+Chan+Gaudoo%2+Seno+Ve+Peden%2+Seno+Ced+Undewe+a+Peaak-Gladone+Bank+&u=h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2F-2242109hm" d="l00__wagelaeholde_e1_aFaebook" el="nofollow" age="_blank"
+                                mg al="Faebook" le="Faebook" ="magefaebookng" wdh="32" hegh="34" al
+							la hef="h:weomhomeau=Peaak-Gladone+Bank+Announe+Aonmen+of+Chan+Gaudoo%2+Seno+Ve+Peden%2+Seno+Ced+Undewe+a+Peaak-Gladone+Bank+h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2f-2242109hm" d="l00__wagelaeholde_e1_aTwe" el="nofollow" age="_blank" daa-oun="none"
+                                mg al="Twe"  le="Twe" ="mageweng" wdh="32" hegh="34" al
+                            l
+                                a hef="h:wwwlnkednomhaeAlemn=ue&le=Peaak-Gladone+Bank+Announe+Aonmen+of+Chan+Gaudoo%2+Seno+Ve+Peden%2+Seno+Ced+Undewe+a+Peaak-Gladone+Bank+&ul=h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2f-2242109hm" d="l00__wagelaeholde_e1_aLnkedn" el="nofollow" age="_blank"
+                                mg al="Lnkedn" le="Lnkedn" ="magelnkednng" wdh="32" hegh="34" al
+                             l   
+                                a hef="h:lugoogleomhaeul=h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2f-2242109hm" d="l00__wagelaeholde_e1_aGooglePlu" el="nofollow" onlk="java:wndowoenhhef,
+                                  &#39;&#39;, &#39;menuba=no,oolba=no,ezable=ye,ollba=ye,hegh=600,wdh=600&#39;;eun fale;"
+                                  mg ="mageglu-32ng" al="Shae on Google+" le="Shae on Google+" wdh="32" hegh="34" a
+                              l
+                            l
+                                a d="aPnee" el="nofollow" hef='java:vodfunon%7Bva%20e=doumeneaeElemen&ao;&ao;;eeAbue&ao;ye&ao;,&ao;exjava&ao;;eeAbue&ao;hae&ao;,&ao;UTF-8&ao;;eeAbue&ao;&ao;,&ao;h:aeneeomjnmaklej=&ao;+Mahandom99999999;doumenbodyaendChlde%7D;'
+                                mg al="Pnee" le="Pnee" ="magePnee-Ionjg" wdh="34" hegh="34" a    
+                            l
+                        ul
+                    l
+                    la hef="h:makeweomeleae=1326134&=23&=67&ul=h%3A%2F%2Fwwwmakewedom%2Fne_fendlyd=2242109" d="l00__wagelaeholde_e1_aPne" la="on ne" el="nofollow"Pn Fendlyal
+                    la d="addhlnk" el="nofollow" la="on hae addh_buon" hef="h:wwwaddhombookmakhv=250&am;uename=xa-4d025fb33e7d3d20"
+                        Shaeal
+                ul
+                !--}--
+                dv d="newoom-oy" yle="addng-o:15x;"
+                    
+                    dv d="l00__wagelaeholde_e1_dv_omany_u"
+                        able la="new-able"
+                            body
+                                
+                                              d valgn="o"
+               ongSOURCE: Peaak-Gladone Fnanal Cooaonong
+               
+  mg al="Peaak-Gladone Fnanal Cooaon" le="Peaak-Gladone Fnanal Cooaon" ="h:medamakeweomaahmen20160434052_Peaak-GladoneFnanalCojg" 
+
+
+
+          d
+
+          
+
+
+
+
+                                
+                            body
+                        able
+                    dv
+                     d="new-dae"Novembe 28, 2017 17:09 ET
+h1Peaak-Gladone Bank Announe Aonmen of Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe a Peaak-Gladone Bank h1
+ongong
+
+dv la="mw_eleae"
+ BEDMINSTER, NJ--Makewed - Nov 28, 2017 -  Peaak-Gladone Fnanal Cooaon exhange name="NASDAQ"NASDAQexhange: a el="nofollow" hef="new_oomSokke=PGC"PGCa and Peaak-Gladone Bank announe he aonmen of Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe a Peaak-Gladone Bank&#160;M Gaudoo  now a of he vae bankng eam eonble fo he uung, undewng and ongong monong of Commeal &am; Indual C&am;I loan n he md-ue mddle make, whle ovdng he Bank' exluve one-ouh vae bankng exeene
+        M Gaudoo  a eaoned undewe bngng o he bank 26 yea of fnanal eve exeene&#160;Pevouly, he held oon a eno undewe; eno ve eden, undewng manage; and deo of ed oly a Caal One Bank&#160;Po o ha he eved a eno undewe and elaonh manage a Bank of New Yok n Paeon, New Jeey and a eno undewe a Bank of Amea
+        M Gaudoo hold a Bahelo of Sene Degee n Fnane and Aounng fom he Unvey of Tama and hold Ced Rk Cefaon fom he Rk Managemen Aoaon RMA&#160;A eden of Randolh, New Jeey, Chan  a elgou eduaon nuo a S Mahew he Aole Pah and ha been an ave maahon fundae fo vaou hae fo he la 15 yea
+        Peaak-Gladone Fnanal Cooaon  a New Jeey bank holdng omany wh oal ae of $418 bllon a of Seembe 30, 2017&#160;Founded n 1921, Peaak-Gladone Bank  a ommeal bank ha ovde nnovave vae bankng eve o bunee, non-of and onume, whh hel hem o eablh, manan and exand he legay&#160;Though  vae bankng loaon n Bedmne, Moown, Pneon and Teanek,  vae wealh managemen, ommeal vae bankng, eal vae bankng and edenal lendng dvon, along wh  onlne lafom, Peaak-Gladone Bank offe an unaalleled ommmen o len eve
+
+          dv
+
+
+                    
+                    dv d="l00__wagelaeholde_e1_ona_nfomaon"
+                        dv la="newoom-ona"
+                            dv d="newoom-ona-o"
+                                dvdvdv
+                            dv d="newoom-ona-mddle"
+                                h2Cona Infomaonh2
+                                ul
+                                    l
+                                        
+                                            an d="l00__wagelaeholde_e1_lblCona"
+Cona: b 
+Roanne Shwabb 
+Peaak-Gladone Bankb 
+Aan Ve Peden, Publ Relaon and Cooae Communaon Manageb 
+500 Hll Dve, Sue 300b 
+Bedmne, NJ 07921 b a el="nofollow" hef="malo:hwab@gbankom"hwab@gbankomab 
+908 719-6543
+an
+                                    l
+                                ul
+                            dv
+                            dv d="newoom-ona-boom"
+                               dvdvdv
+                        dv
+                    dv
+                dv
+                !--{--
+                ul la="onol"
+                    l la="oalmedalnk"
+                        ul la="newoom-oal"
+							la hef="h:wwwfaebookomhaehaehle=Peaak-Gladone+Bank+Announe+Aonmen+of+Chan+Gaudoo%2+Seno+Ve+Peden%2+Seno+Ced+Undewe+a+Peaak-Gladone+Bank+&u=h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2F-2242109hm" d="l00__wagelaeholde_e1_aFaebook2" el="nofollow" age="_blank"
+                                mg al="Faebook" le="Faebook" ="magefaebookng" wdh="32" hegh="34" al
+                            la hef="h:weomhomeau=Peaak-Gladone+Bank+Announe+Aonmen+of+Chan+Gaudoo%2+Seno+Ve+Peden%2+Seno+Ced+Undewe+a+Peaak-Gladone+Bank+h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2f-2242109hm" d="l00__wagelaeholde_e1_aTwe2" el="nofollow" age="_blank"
+                                mg al="Twe"  le="Twe" ="mageweng" wdh="32" hegh="34" al
+                            la hef="h:wwwlnkednomhaeAlemn=ue&le=Peaak-Gladone+Bank+Announe+Aonmen+of+Chan+Gaudoo%2+Seno+Ve+Peden%2+Seno+Ced+Undewe+a+Peaak-Gladone+Bank+&ul=h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2f-2242109hm" d="l00__wagelaeholde_e1_aLnkedn2" el="nofollow" age="_blank"
+                                mg al="Lnkedn" le="Lnkedn" ="magelnkednng" wdh="32" hegh="34" al
+                             l   
+                                a hef="h:lugoogleomhaeul=h%3A%2F%2Fwwwmakewedom%2Fe-eleae%2f-2242109hm" d="l00__wagelaeholde_e1_aGooglePlu2" el="nofollow" onlk="java:wndowoenhhef,
+                                  &#39;&#39;, &#39;menuba=no,oolba=no,ezable=ye,ollba=ye,hegh=600,wdh=600&#39;;eun fale;"
+                                mg  ="mageglu-32ng" le="Shae on Google+" al="Shae on Google+" wdh="32" hegh="34" a
+                             l
+                             l
+                            a d="aPnee2" el="nofollow" hef='java:vodfunon%7Bva%20e=doumeneaeElemen&ao;&ao;;eeAbue&ao;ye&ao;,&ao;exjava&ao;;eeAbue&ao;hae&ao;,&ao;UTF-8&ao;;eeAbue&ao;&ao;,&ao;h:aeneeomjnmaklej=&ao;+Mahandom99999999;doumenbodyaendChlde%7D;'
+                               mg al="Pnee" le="Pnee" ="magePnee-Ionjg" wdh="34" hegh="34" a    
+                            l
+                        ul
+                    l
+                    la hef="h:makeweomeleae=1326134&=23&=67&ul=h%3A%2F%2Fwwwmakewedom%2Fne_fendlyd=2242109" d="l00__wagelaeholde_e1_aPne2" la="on ne" el="nofollow"Pn Fendlyal
+                    la el="nofollow" d="addhlnk2" la="on hae addh_buon" hef="h:wwwaddhombookmakhv=250&am;uename=xa-4d025fb33e7d3d20"
+                        Shaeal
+                ul
+                dv la="newoomlnk"
+                    a el="nofollow" hef="new_oom"New Rooma
+                dv
+                dv d="vew-elaed"
+                    dv d="vew-elaed-"
+                        &nb;dv
+                    dv d="vew-elaed-m"
+                        dvVew Relaed Newdv
+                        able
+                            body
+                                
+                                    d la="doed-lead"
+                                        an la="whe-bg"Abou h omanyan
+                                    d
+                                    d
+                                        a el="nofollow" hef='h:makeweomeleae=1326134&=21&=89&ul=h%3A%2F%2Fwwwmakewedomnew_oomPeSeahye=og%26q=Peaak-Gladone%2bFnanal%2bCooaon'Peaak-Gladone Fnanal Cooaonab 
+
+                                    d
+                                
+                                
+                                    d la="doed-lead"
+                                        an la="whe-bg"Fom h nduyan
+                                    d
+                                    d
+                                        a el="nofollow" hef="efne-bynduy=Fnanal+Seve"Fnanal Sevea
+b 
+
+                                    d
+                                
+                                
+                                    d la="doed-lead"
+                                        an la="whe-bg"Fom h ub-nduyan
+                                    d
+                                    d valgn="o"
+                                        a el="nofollow" hef="new_oomndx=Commeal+and+Invemen+Bankng&nd=FSCI"Commeal and Invemen Bankngab 
+a el="nofollow" hef="new_oomndx=Invemen+Seve+and+Tadng&nd=FSIS"Invemen Seve and Tadngab 
+a el="nofollow" hef="new_oomndx=Peonal+Fnane&nd=FSPF"Peonal Fnaneab 
+a el="nofollow" hef="new_oomndx=Real+Bankng&nd=FSRB"Real Bankngab 
+
+                                    d
+                                
+                            body
+                        able
+                        
+                            See all a el="nofollow" hef="New_oom_newfeed"RSS Newfeeda
+                    dv
+                    dv d="vew-elaed-b"
+                        &nb;dv
+                dv
+                !--}--
+            dv
+            !-- end of newoom lef --
+!--{--
+            dv la="newoom-gh"
+                dv d="l00__wagelaeholde_e1_dvMulmeda"
+                    h3Mulmedah3
+                    dv la="newoom-gh-onen"
+                       ul d="newoom-gh-em"
+                            la el="nofollow" hef="h:makeweomeleae=1326134&=25&=3183020&ul=h%3a%2f%2fmedamakeweom%2faahmen%2f201711%2fMOD-95946_j5a1dd4a59869f20004483e59_1jg"mg al="" le="" ="h:medamakeweomaahmen201711TN-95946_j5a1dd4a59869f20004483e59_1jg" aa el="nofollow" hef="h:makeweomeleae=1326134&=25&=3183020&ul=h%3a%2f%2fmedamakeweom%2faahmen%2f201711%2fMOD-95946_j5a1dd4a59869f20004483e59_1jg"Chan Gaudoo, Seno Ve Peden, Seno Ced Undewe, Peaak-Gladone BankaVew Image: a el="mall" el="nofollow" hef="h:makeweomeleae=1326134&=25&=3183020&ul=h%3a%2f%2fmedamakeweom%2faahmen%2f201711%2fTN-95946_j5a1dd4a59869f20004483e59_1jg"S aa el="medum" el="nofollow" hef="h:makeweomeleae=1326134&=25&=3183020&ul=h%3a%2f%2fmedamakeweom%2faahmen%2f201711%2fMOD-95946_j5a1dd4a59869f20004483e59_1jg"M aa el="lage" el="nofollow" hef="h:makeweomeleae=1326134&=25&=3183020&ul=h%3a%2f%2fmedamakeweom%2faahmen%2f201711%2f95946_j5a1dd4a59869f20004483e59_1jg"La  l
+
+
+    
+
+    
+    
+    
+
+   
+
+
+    
+    
+     
+    
+   
+    
+
+                        ul
+                    dv
+                dv
+                
+                
+               
+                
+                
+            dv
+           
+ !--}--
+            dv la="lea"
+                &nb;dv
+            dv
+        dv la="newoom-boom"
+        dv
+    dv
+dv
+mg d="l00__wagelaeholde_e1_mgATB" ="h:amakeweomaeakngAeTakngLogSevlePId=1326134&am;efee=&am;oueTye=1" yle="hegh:0x;wdh:0x;" 
+!--{--
+mg ="magelea_dogf" d="lea_do" wdh="1" hegh="1" al="" 
+nu name="l00$$wagelaeholde$e1$ReleaeIDTakng" ye="hdden" d="l00__wagelaeholde_e1_ReleaeIDTakng" value="1326134" 
+ ye="exjava"
+    $doumeneadyfunon {
+        f $"#handle  l  a:onan'Webohee'"lengh  0 {
+            $"#mae-handle  #exand  a"lk;
+        } ele {
+            $"#handle  l  a:onan'Galley'"lk;
+            $"#handle  l  a:onan'Cona Infomaon'"lk;
+            $"#handle  l  a:onan'Hghlghed Lnk'"lk;
+        }
+        f $"newoom-gh-onen"lengh  0 {
+            $"#newoom"emoveCla"newoom-oneolumn"addCla"newoom-woolumn";
+        }
+    };
+
+    funon akngPId, Val, Val, u {
+        u = eaeuelae\g, '%2F';
+        va d = new DaegeTme;
+        va  = "h:makeweom" + "eleae=" + PId + "&=" + Val + "&=" + Val + "&ul=" + u + "&d=" + d;
+        va mg = doumengeElemenById'lea_do';
+        mg = ;
+    }
+
+    funon ageLoad {
+        addOnClk"l00__wagelaeholde_e1_aTwe2",72,74,"h:weom";
+        addOnClk"l00__wagelaeholde_e1_aTwe", 72, 74, "h:weom";
+        addOnClk"l00__wagelaeholde_e1_aFaebook", 72, 75, "h:faebookom";
+        addOnClk"l00__wagelaeholde_e1_aFaebook2", 72, 75, "h:faebookom";
+        addOnClk"l00__wagelaeholde_e1_aLnkedn", 72, 76, "h:Lnkednom";
+        addOnClk"l00__wagelaeholde_e1_aLnkedn2", 72, 76, "h:Lnkednom";
+        addOnClk"l00__wagelaeholde_e1_aGooglePlu", 72, 85, "h:lugoogleom";
+        addOnClk"l00__wagelaeholde_e1_aGooglePlu2", 72, 85, "h:lugoogleom";
+        addOnClk"addhlnk", 72, 111, "h:addhlnkom";
+        addOnClk"addhlnk2", 72, 111, "h:addhlnkom";
+        addOnClk"aPnee", 72, 133, "h:Pneeom";
+        addOnClk"aPnee2", 72, 133, "h:Pneeom";
+    }
+    
+    funon addOnClkelemenId, Val, Val,URL {
+        va eleId = doumengeElemenByIdelemenId;
+        va PId = 0;
+        f doumengeElemenById'l00__wagelaeholde_e1_ReleaeIDTakng' {
+           PId = doumengeElemenById'l00__wagelaeholde_e1_ReleaeIDTakng'value;
+        }
+        f eleId {
+            f eleIdaddEvenLene {
+                eleIdaddEvenLene"lk",
+                         funon {
+                                     akngPId, Val, Val, URL;
+                         },
+                         fale;
+            }
+            ele {
+                eleIdaahEven"onlk",
+                         funon {
+                                     akngPId, Val, Val, URL;
+                         },
+                         fale;
+            }
+        }
+    }
+    
+    wndowonload += ageLoad;     
+
+
+    dv
+
+
+    dv
+	
+    
+
+dv la="fooe"
+    dv la="wa fooe-nne"
+        dv la="fooeLnk"
+            dv la="fooeLnk-eon"
+                dv la="hd hd_med hd_leadng"
+                    h5 la="hdg hdg_h6"
+                        a la="navSeon_Ave" hef="Abou-U"
+						
+                            Abou Makewed
+							
+						a
+                    h5
+                dv
+                ul la="vL vL_aeXm"
+                    l
+  a hef="Abou-UMakewed-New"Makewed Newa
+l
+
+l
+  a hef="Abou-UCommuny-Bulde"Communy Buldea
+l
+
+
+					la hef="Pvay"Pvayal	
+					la hef="Se-Ma"Se Maal	
+                    la hef="Aebly"Aeblyal 					
+                ul
+            dv
+            dv la="fooeLnk-eon"
+                dv la="hd hd_med hd_leadng"
+                    h5 la="hdg hdg_h6"
+                        a la="navSeon_Ave" hef="Podu"
+						
+                            Podu
+							
+						a
+                    h5
+                dv
+                ul la="vL vL_aeXm"
+                    l
+  a hef="PoduReonae"Makewed Reonaea
+l
+
+l
+  a hef="PoduInfluene"Makewed Influenea
+l
+
+l
+  a hef="PoduDbue"New Dbuona
+l
+
+l
+  a hef="PoduIme"IRPR Newoom Imea
+l
+
+l
+  a hef="PoduMedahub"Meda Daabae Medahuba
+l
+
+
+                ul
+            dv
+            dv la="fooeLnk-eon"
+                dv la="hd hd_med hd_leadng"
+                    h5 la="hdg hdg_h6"
+                        a la="navSeon_Ave" hef="Reoue"
+						 
+                            Reoue
+							
+						a
+                    h5
+                dv
+                ul la="vL vL_aeXm"
+                    l
+  a hef="ReoueBohue"Bohuea
+l
+
+l
+  a hef="ReoueCae_Sude"Cae Sudea
+l
+
+l
+  a hef="ReoueE-Book-T-Shee"E-Book  T Shee a
+l
+
+l
+  a hef="ReoueWebna-Vdeo"Webna  Vdeoa
+l
+
+
+                ul
+            dv
+            dv la="fooeLnk-eon"
+                dv la="hd hd_med hd_leadng"
+                    h5 la="hdg hdg_h6"
+                        a la="navSeon_Ave" hef="Newoom"
+						 
+                            Newoom
+							
+						a
+                    h5
+                dv
+                ul la="vL vL_aeXm"
+                    l
+  a hef="NewoomAll-New"All Newa
+l
+
+l
+  a hef="NewoomHeadlne-Only"Headlne Onlya
+l
+
+l
+  a hef="NewoomAdvaned-Seah"Advaned Seaha
+l
+
+l
+  a hef="NewoomRSS-Newfeed"RSS Newfeeda
+l
+
+l
+  a hef="NewoomHo-Off-he-We"Ho Off he Wea
+l
+
+l
+  a hef="NewoomPeonal-Bea"Peonal Beaa
+l
+
+l
+  a hef="NewoomCASL"CASL Comlanea
+l
+
+
+                ul
+            dv
+            dv la="fooeLnk-eon fooeLnk-eon_wde"
+                dv la="hd hd_med hd_leadng mx-hd_gh"
+                    h5 la="hdg hdg_h6"
+					
+                            Conne Wh U
+							
+					h5
+                dv
+                ul la="oalL"
+                    la hef="h:wwwfaebookomMakewed" age="_blank"em la="oalIon oalIon_fb"Faebookemal
+                    la hef="h:weomMakewed" age="_blank"em la="oalIon oalIon_w"Tweemal
+                    la hef="h:wwwyouubeomueMakewe" age="_blank"em la="oalIon oalIon_y"YouTubeemal
+                    la hef="h:lnkednomomany18941" age="_blank"em la="oalIon oalIon_l"LnkedInemal
+                    la hef="h:lugoogleom110638383822087243185o" age="_blank"em la="oalIon oalIon_g"Google+emal
+                ul
+		dv d="nadaq-logo"mg ="h:wwwmakewedommagenadaqvg" al="Nadaq logo" dv
+            dv
+            dv d="a_nadaq"
+                dvMARKETWIRED IS NOW PART OF NASDAQdv
+            dv
+	    dv la="x_mnule"
+                        
+				Coygh &oy;2016 Nadaq, In All gh eeved a hef="Makewe-Tem-of-Seve" la="x_mnule"Legala
+			
+            dv
+		
+        dv
+    dv
+dv
+dv la="boweWanng"
+
+    h2 la="hdg hdg_h2"You ae ung an oudaed boweh2
+    Fo a bee exeene ung h e, leae ugade o a moden web bowe
+
+dv
+
+!-- Google analy akng ode: --
+
+    funon , , o, g, , a, m {
+        ['GoogleAnalyObje'] = ; [] = [] || funon  {
+            []q = []q || []uhagumen
+        }, []l = 1  new Dae; a = eaeElemeno,
+        m = geElemenByTagNameo[0]; aayn = 1; a = g; maenNodeneBefoea, m
+    }wndow, doumen, '', 'wwwgoogle-analyomanalyj', 'ga';
+
+    ga'eae', 'UA-40759822-1', 'makewedom';
+    ga'end', 'agevew';
+
+
+
+    
+    fom
+body
+hml!-- fo Newoom --

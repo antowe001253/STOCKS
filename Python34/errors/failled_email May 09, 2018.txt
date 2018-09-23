@@ -1,0 +1,1980 @@
+[TIME] May 09, 2018---08:14:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:14:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:14:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:14:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:14:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:14:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:14:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:14:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:14:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:14:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:14:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:14:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:14:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:14:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:14:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:14:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:14:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:14:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:15:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:15:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:15:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:15:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:15:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:15:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:15:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:15:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:15:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:15:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:15:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:15:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:15:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:15:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:15:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:15:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:15:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:15:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:15:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:15:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:15:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:16:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:16:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:16:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:16:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:16:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:16:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:16:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:16:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:16:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:16:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:16:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:16:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:16:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:16:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:16:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:17:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:17:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:17:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:17:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:17:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:17:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:17:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:17:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:17:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:17:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:17:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:17:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:17:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:17:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:17:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:17:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:17:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:17:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:17:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:17:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:18:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:18:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:18:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:18:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:18:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:18:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:18:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:18:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:18:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:18:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:18:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:18:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:18:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:18:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:18:38  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:18:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:18:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:18:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:18:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:18:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:18:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:18:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:19:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:19:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:19:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:19:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:19:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:19:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:19:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:19:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:19:21  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:19:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:19:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:19:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:19:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:19:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:19:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:19:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:19:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:19:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:19:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:19:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:19:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:19:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:20:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:20:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:20:05  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:20:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:20:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:20:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:20:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:20:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:20:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:20:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:20:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:20:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:20:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:20:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:20:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:20:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:20:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:20:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:20:49  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:20:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:20:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:20:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:21:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:21:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:21:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:21:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:21:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:21:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:21:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:21:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:32  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:21:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:21:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:21:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:21:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:21:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:21:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:21:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:21:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:22:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:22:10  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:22:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:22:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:22:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:22:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:22:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:22:52  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:22:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:22:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:22:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:23:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:23:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:23:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:23:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:23:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:23:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:23:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:23:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:23:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:23:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:23:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:23:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:23:35  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:23:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:23:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:23:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:23:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:23:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:23:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:23:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:23:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:23:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:24:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:24:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:24:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:24:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:24:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:24:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:24:20  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:24:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:24:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:24:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:24:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:24:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:24:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:24:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:24:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:24:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:24:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:24:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:24:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:24:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:25:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:25:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:25:02  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:25:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:25:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:25:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:25:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:25:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:25:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:25:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:25:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:25:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:25:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:25:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:25:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:25:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:25:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:25:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:25:47  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:25:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:25:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:25:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:25:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:26:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:26:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:26:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:26:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:26:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:26:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:26:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:26:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:26:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 09, 2018---08:26:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:26:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:26:37  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:27:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:27:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:27:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:29:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:29:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:29:40  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Empower Retirement Adds $75 Billion in Assets, Builds Momentum with New Clients| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/empower-retirement-adds-75-billion-120300909.html
+[TIME] May 09, 2018---08:29:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:30:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:30:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:30:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:30:19  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Empower Retirement Adds $75 Billion in Assets, Builds Momentum with New Clients| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/empower-retirement-adds-75-billion-120300909.html
+[TIME] May 09, 2018---08:30:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:30:23  Not Send | Ticker: [CTBO] Title: Cantabio Pharmaceuticals to Present Positive in vivo Efficacy Data in a Mice Model of Parkinson’s disease from Its DJ-1 Protein Targeting Therapeutic Program at the Neuro4D Conference in Mainz, Germany| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499454/0/en/Cantabio-Pharmaceuticals-to-Present-Positive-in-vivo-Efficacy-Data-in-a-Mice-Model-of-Parkinson-s-disease-from-Its-DJ-1-Protein-Targeting-Therapeutic-Program-at-the-Neuro4D-Confere.html
+[TIME] May 09, 2018---08:30:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:30:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:30:38  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:30:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:30:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:30:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:30:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:31:12  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Carotenoid Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 4% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-carotenoid-market-analysis-growth-122200172.html
+[TIME] May 09, 2018---08:31:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:31:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:31:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:31:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:31:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:31:48  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Empower Retirement Adds $75 Billion in Assets, Builds Momentum with New Clients| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/empower-retirement-adds-75-billion-120300909.html
+[TIME] May 09, 2018---08:31:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:31:51  Not Send | Ticker: [NTGR] Title: NETGEAR Launches Smart Managed Pro Switches With PoE+ for High-Density Converged, Wireless and Secure Networks| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499467/0/en/NETGEAR-Launches-Smart-Managed-Pro-Switches-With-PoE-for-High-Density-Converged-Wireless-and-Secure-Networks.html
+[TIME] May 09, 2018---08:32:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:32:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:32:13  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Carotenoid Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 4% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-carotenoid-market-analysis-growth-122200172.html
+[TIME] May 09, 2018---08:32:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:32:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:32:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:32:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:32:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:32:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:33:00  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:33:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:33:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:33:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:33:25  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Beryllium Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-beryllium-market-analysis-growth-120200770.html
+[TIME] May 09, 2018---08:33:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:33:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:33:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:33:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:33:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:33:56  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:34:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:34:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:34:08  Not Send | Ticker: [AMRS] Title: Amyris Presents Its No Compromise™ Product Portfolio at Techonomy New York| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499484/0/en/Amyris-Presents-Its-No-Compromise-Product-Portfolio-at-Techonomy-New-York.html
+[TIME] May 09, 2018---08:34:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:34:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:34:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:34:37  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Empower Retirement Adds $75 Billion in Assets, Builds Momentum with New Clients| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/empower-retirement-adds-75-billion-120300909.html
+[TIME] May 09, 2018---08:34:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:34:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:34:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:35:11  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Carotenoid Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 4% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-carotenoid-market-analysis-growth-122200172.html
+[TIME] May 09, 2018---08:35:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:35:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:35:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:35:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:35:30  Not Send | Ticker: [VRP] Title: Verona Pharma to Present Clinical Trial Data of RPL554 for COPD Maintenance Treatment at American Thoracic Society 2018 International Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499494/0/en/Verona-Pharma-to-Present-Clinical-Trial-Data-of-RPL554-for-COPD-Maintenance-Treatment-at-American-Thoracic-Society-2018-International-Conference.html
+[TIME] May 09, 2018---08:35:30  Not Send | Ticker: [COOL] Title: PolarityTE™ Accelerates Sales Team for Targeted Regional Release of SkinTE™| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499493/0/en/PolarityTE-Accelerates-Sales-Team-for-Targeted-Regional-Release-of-SkinTE.html
+[TIME] May 09, 2018---08:35:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:35:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:35:48  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:35:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:35:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:36:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:36:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:36:39  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:36:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:36:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:37:03  Not Send | Ticker: [VRP] Title: Verona Pharma to Present Clinical Trial Data of RPL554 for COPD Maintenance Treatment at American Thoracic Society 2018 International Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499494/0/en/Verona-Pharma-to-Present-Clinical-Trial-Data-of-RPL554-for-COPD-Maintenance-Treatment-at-American-Thoracic-Society-2018-International-Conference.html
+[TIME] May 09, 2018---08:37:03  Not Send | Ticker: [COOL] Title: PolarityTE™ Accelerates Sales Team for Targeted Regional Release of SkinTE™| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499493/0/en/PolarityTE-Accelerates-Sales-Team-for-Targeted-Regional-Release-of-SkinTE.html
+[TIME] May 09, 2018---08:37:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:37:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:37:26  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:37:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:37:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:38:08  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:38:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:38:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:38:25  Not Send | Ticker: [VRP] Title: Verona Pharma to Present Clinical Trial Data of RPL554 for COPD Maintenance Treatment at American Thoracic Society 2018 International Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499494/0/en/Verona-Pharma-to-Present-Clinical-Trial-Data-of-RPL554-for-COPD-Maintenance-Treatment-at-American-Thoracic-Society-2018-International-Conference.html
+[TIME] May 09, 2018---08:38:26  Not Send | Ticker: [COOL] Title: PolarityTE™ Accelerates Sales Team for Targeted Regional Release of SkinTE™| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499493/0/en/PolarityTE-Accelerates-Sales-Team-for-Targeted-Regional-Release-of-SkinTE.html
+[TIME] May 09, 2018---08:38:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:38:42  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:38:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:39:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:39:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:39:21  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:39:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:39:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:39:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:39:39  Not Send | Ticker: [VRP] Title: Verona Pharma to Present Clinical Trial Data of RPL554 for COPD Maintenance Treatment at American Thoracic Society 2018 International Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499494/0/en/Verona-Pharma-to-Present-Clinical-Trial-Data-of-RPL554-for-COPD-Maintenance-Treatment-at-American-Thoracic-Society-2018-International-Conference.html
+[TIME] May 09, 2018---08:39:39  Not Send | Ticker: [COOL] Title: PolarityTE™ Accelerates Sales Team for Targeted Regional Release of SkinTE™| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499493/0/en/PolarityTE-Accelerates-Sales-Team-for-Targeted-Regional-Release-of-SkinTE.html
+[TIME] May 09, 2018---08:39:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 09, 2018---08:40:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:40:14  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:40:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:40:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:40:53  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:40:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:41:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:41:14  Not Send | Ticker: [VRP] Title: Verona Pharma to Present Clinical Trial Data of RPL554 for COPD Maintenance Treatment at American Thoracic Society 2018 International Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499494/0/en/Verona-Pharma-to-Present-Clinical-Trial-Data-of-RPL554-for-COPD-Maintenance-Treatment-at-American-Thoracic-Society-2018-International-Conference.html
+[TIME] May 09, 2018---08:41:15  Not Send | Ticker: [COOL] Title: PolarityTE™ Accelerates Sales Team for Targeted Regional Release of SkinTE™| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499493/0/en/PolarityTE-Accelerates-Sales-Team-for-Targeted-Regional-Release-of-SkinTE.html
+[TIME] May 09, 2018---08:41:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:41:35  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Marshal Mize Ford provides Memorial Day sales and incentives through May 31| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/marshal-mize-ford-provides-memorial-122100001.html
+[TIME] May 09, 2018---08:41:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:42:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:42:16  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:42:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:42:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:42:58  Not Send | Ticker: [VRP] Title: Verona Pharma to Present Clinical Trial Data of RPL554 for COPD Maintenance Treatment at American Thoracic Society 2018 International Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499494/0/en/Verona-Pharma-to-Present-Clinical-Trial-Data-of-RPL554-for-COPD-Maintenance-Treatment-at-American-Thoracic-Society-2018-International-Conference.html
+[TIME] May 09, 2018---08:43:00  Not Send | Ticker: [COOL] Title: PolarityTE™ Accelerates Sales Team for Targeted Regional Release of SkinTE™| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499493/0/en/PolarityTE-Accelerates-Sales-Team-for-Targeted-Regional-Release-of-SkinTE.html
+[TIME] May 09, 2018---08:43:10  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Frankly Completes Additional Funding| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/frankly-completes-additional-funding-123000363.html
+[TIME] May 09, 2018---08:43:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:43:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:43:48  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:43:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:44:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:44:14  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Frankly Completes Additional Funding| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/frankly-completes-additional-funding-123000363.html
+[TIME] May 09, 2018---08:44:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:44:26  Not Send | Ticker: [VRP] Title: Verona Pharma to Present Clinical Trial Data of RPL554 for COPD Maintenance Treatment at American Thoracic Society 2018 International Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499494/0/en/Verona-Pharma-to-Present-Clinical-Trial-Data-of-RPL554-for-COPD-Maintenance-Treatment-at-American-Thoracic-Society-2018-International-Conference.html
+[TIME] May 09, 2018---08:44:26  Not Send | Ticker: [COOL] Title: PolarityTE™ Accelerates Sales Team for Targeted Regional Release of SkinTE™| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499493/0/en/PolarityTE-Accelerates-Sales-Team-for-Targeted-Regional-Release-of-SkinTE.html
+[TIME] May 09, 2018---08:44:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:44:45  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>ThreeMain Reduces Plastic Packaging by 80 Percent and Disrupts $25 Billion Dollar Cleaning Products Market| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/threemain-reduces-plastic-packaging-80-123000447.html
+[TIME] May 09, 2018---08:45:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:45:18  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:45:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:45:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:45:52  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Frankly Completes Additional Funding| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/frankly-completes-additional-funding-123000363.html
+[TIME] May 09, 2018---08:46:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:46:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:46:34  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>ThreeMain Reduces Plastic Packaging by 80 Percent and Disrupts $25 Billion Dollar Cleaning Products Market| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/threemain-reduces-plastic-packaging-80-123000447.html
+[TIME] May 09, 2018---08:46:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:47:04  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:47:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:47:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:47:23  Not Send | Ticker: [SIRC] Title: Solar Integrated Roofing Corporation Begins New Fiscal Year with Record Month; Continues Brisk Sales Pace with Strong April| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499505/0/en/Solar-Integrated-Roofing-Corporation-Begins-New-Fiscal-Year-with-Record-Month-Continues-Brisk-Sales-Pace-with-Strong-April.html
+[TIME] May 09, 2018---08:47:29  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Frankly Completes Additional Funding| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/frankly-completes-additional-funding-123000363.html
+[TIME] May 09, 2018---08:47:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:47:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:48:04  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>ThreeMain Reduces Plastic Packaging by 80 Percent and Disrupts $25 Billion Dollar Cleaning Products Market| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/threemain-reduces-plastic-packaging-80-123000447.html
+[TIME] May 09, 2018---08:48:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:49:02  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:49:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:49:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:49:23  Not Send | Ticker: [SIRC] Title: Solar Integrated Roofing Corporation Begins New Fiscal Year with Record Month; Continues Brisk Sales Pace with Strong April| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499505/0/en/Solar-Integrated-Roofing-Corporation-Begins-New-Fiscal-Year-with-Record-Month-Continues-Brisk-Sales-Pace-with-Strong-April.html
+[TIME] May 09, 2018---08:49:29  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Frankly Completes Additional Funding| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/frankly-completes-additional-funding-123000363.html
+[TIME] May 09, 2018---08:49:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:49:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:50:03  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>ThreeMain Reduces Plastic Packaging by 80 Percent and Disrupts $25 Billion Dollar Cleaning Products Market| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/threemain-reduces-plastic-packaging-80-123000447.html
+[TIME] May 09, 2018---08:50:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:50:32  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---08:50:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:50:39  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Athena Bitcoin Launches Athena.Trade| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/athena-bitcoin-launches-athena-trade-123700337.html
+[TIME] May 09, 2018---08:50:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:50:55  Not Send | Ticker: [SIRC] Title: Solar Integrated Roofing Corporation Begins New Fiscal Year with Record Month; Continues Brisk Sales Pace with Strong April| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499505/0/en/Solar-Integrated-Roofing-Corporation-Begins-New-Fiscal-Year-with-Record-Month-Continues-Brisk-Sales-Pace-with-Strong-April.html
+[TIME] May 09, 2018---08:51:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:51:52  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:51:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:51:56  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The green or low rolling resistance tires market is projected to reach USD 104.23 billion by 2022, at a CAGR of 10.7% from USD 62.68 billion in 2017| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/green-low-rolling-resistance-tires-123800592.html
+[TIME] May 09, 2018---08:52:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:52:21  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---08:52:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:52:31  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Athena Bitcoin Launches Athena.Trade| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/athena-bitcoin-launches-athena-trade-123700337.html
+[TIME] May 09, 2018---08:52:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:52:42  Not Send | Ticker: [SIRC] Title: Solar Integrated Roofing Corporation Begins New Fiscal Year with Record Month; Continues Brisk Sales Pace with Strong April| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499505/0/en/Solar-Integrated-Roofing-Corporation-Begins-New-Fiscal-Year-with-Record-Month-Continues-Brisk-Sales-Pace-with-Strong-April.html
+[TIME] May 09, 2018---08:52:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:53:03  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Athena Bitcoin Launches Athena.Trade| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/athena-bitcoin-launches-athena-trade-123700337.html
+[TIME] May 09, 2018---08:53:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:53:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:53:35  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The green or low rolling resistance tires market is projected to reach USD 104.23 billion by 2022, at a CAGR of 10.7% from USD 62.68 billion in 2017| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/green-low-rolling-resistance-tires-123800592.html
+[TIME] May 09, 2018---08:53:44  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---08:53:47  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Phillips Edison Grocery Center REIT III Initial Public Offering Declared Effective by U.S. Securities and Exchange Commission| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/phillips-edison-grocery-center-reit-123000709.html
+[TIME] May 09, 2018---08:53:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:54:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:54:29  Not Send | Ticker: [SIRC] Title: Solar Integrated Roofing Corporation Begins New Fiscal Year with Record Month; Continues Brisk Sales Pace with Strong April| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499505/0/en/Solar-Integrated-Roofing-Corporation-Begins-New-Fiscal-Year-with-Record-Month-Continues-Brisk-Sales-Pace-with-Strong-April.html
+[TIME] May 09, 2018---08:54:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:54:50  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Parks Associates: 28% of U.S. Broadband Households Are Familiar With Amazon Alexa| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/parks-associates-28-u-broadband-124500712.html
+[TIME] May 09, 2018---08:55:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:55:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:55:31  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---08:55:32  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---08:55:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:55:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:55:55  Not Send | Ticker: [RTA] Title: <u class="StretchedBox"></u>CFM and Corelation Elevate Member Experiences with the Launch of Remote Transaction Assist, Kicking Off at Camino Federal Credit Union| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/cfm-corelation-elevate-member-experiences-124500104.html
+[TIME] May 09, 2018---08:56:04  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---08:56:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:56:15  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Parks Associates: 28% of U.S. Broadband Households Are Familiar With Amazon Alexa| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/parks-associates-28-u-broadband-124500712.html
+[TIME] May 09, 2018---08:56:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:56:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:57:13  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---08:57:14  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---08:57:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:57:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:57:35  Not Send | Ticker: [RTA] Title: <u class="StretchedBox"></u>CFM and Corelation Elevate Member Experiences with the Launch of Remote Transaction Assist, Kicking Off at Camino Federal Credit Union| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/cfm-corelation-elevate-member-experiences-124500104.html
+[TIME] May 09, 2018---08:57:44  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---08:57:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:57:52  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Parks Associates: 28% of U.S. Broadband Households Are Familiar With Amazon Alexa| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/parks-associates-28-u-broadband-124500712.html
+[TIME] May 09, 2018---08:58:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:58:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:58:30  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---08:58:31  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---08:58:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:58:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:58:54  Not Send | Ticker: [RTA] Title: <u class="StretchedBox"></u>CFM and Corelation Elevate Member Experiences with the Launch of Remote Transaction Assist, Kicking Off at Camino Federal Credit Union| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/cfm-corelation-elevate-member-experiences-124500104.html
+[TIME] May 09, 2018---08:59:09  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---08:59:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:59:28  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Parks Associates: 28% of U.S. Broadband Households Are Familiar With Amazon Alexa| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/parks-associates-28-u-broadband-124500712.html
+[TIME] May 09, 2018---08:59:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---08:59:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:00:15  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:00:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:00:20  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:00:30  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:00:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:00:51  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:00:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:00:59  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:01:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:01:34  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:01:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:01:58  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:01:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:02:26  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:02:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:02:32  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:02:41  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:02:43  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:02:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:03:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:03:06  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:03:13  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:03:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:03:43  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:03:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:03:59  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:04:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:04:07  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:04:18  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:04:19  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:04:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:04:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:04:51  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:04:58  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:05:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:05:17  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:05:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:05:35  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:05:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:05:40  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:05:49  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:05:51  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:05:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:06:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:06:19  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:06:26  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:06:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:06:46  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:06:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:06:50  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:07:11  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:07:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:07:28  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:07:39  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:07:41  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:07:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:07:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:08:05  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:08:12  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:08:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:08:33  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:08:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:08:34  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:08:49  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:08:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:08:57  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:09:06  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:09:07  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:09:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:09:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:09:33  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:09:41  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:09:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:09:59  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:10:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:10:01  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:10:29  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:10:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:10:38  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:10:48  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:10:49  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:10:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:11:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:11:13  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:11:20  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:11:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:11:41  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:11:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:11:42  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:11:57  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:11:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:12:03  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:12:12  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:12:13  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:12:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:12:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:12:39  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:12:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:13:13  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:13:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:13:19  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:13:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:13:38  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:13:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:14:01  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Tigera Secures and Monitors Modernized Applications With the Release of CNX 2.1| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tigera-secures-monitors-modernized-applications-125000423.html
+[TIME] May 09, 2018---09:14:06  Not Send | Ticker: [TAF] Title: <u class="StretchedBox"></u>Gilead Lawsuits: California HIV Patients File Class Action and Personal Injury Cases Over Key HIV Drug| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/gilead-lawsuits-california-hiv-patients-123600245.html
+[TIME] May 09, 2018---09:14:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:14:11  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:14:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:14:35  Not Send | Ticker: [FCC] Title: <u class="StretchedBox"></u>Global Refining Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With an Expected CAGR of 3.17% - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-refining-catalysts-market-analysis-125000770.html
+[TIME] May 09, 2018---09:14:36  Not Send | Ticker: [LW] Title: <u class="StretchedBox"></u>Global Polymerization Catalysts Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-polymerization-catalysts-market-analysis-124300939.html
+[TIME] May 09, 2018---09:14:36  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Global Industrial Valves Market Analysis, Growth, Trends &amp; Forecast 2018-2023 - ResearchAndMarkets.com| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-industrial-valves-market-analysis-124100120.html
+[TIME] May 09, 2018---09:14:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:14:38  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:14:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:14:58  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The industrial filtration market is projected to grow at a CAGR of 6.50% from 2018 to 2023| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/industrial-filtration-market-projected-grow-125500735.html
+[TIME] May 09, 2018---09:15:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:15:38  Not Send | Ticker: [PII] Title: <u class="StretchedBox"></u>Socure Digital Identity Verification Platform Achieves Three New ISO Certifications for Privacy and Security Controls| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/socure-digital-identity-verification-platform-130100962.html
+[TIME] May 09, 2018---09:15:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:15:43  Not Send | Ticker: [US] Title: <u class="StretchedBox"></u>The indoor farming technology market is projected to reach USD 40.25 billion by 2022 from USD 25.40 billion in 2017, at a CAGR of 9.65%| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/indoor-farming-technology-market-projected-124800755.html
+[TIME] May 09, 2018---09:15:52  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Nutrisystem, Inc. Named Customer Service Department of the Year for Third Consecutive Year| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/nutrisystem-inc-named-customer-department-130100726.html
+[TIME] May 09, 2018---09:15:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:16:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:16:08  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:16:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:16:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:16:43  Not Send | Ticker: [PII] Title: <u class="StretchedBox"></u>Socure Digital Identity Verification Platform Achieves Three New ISO Certifications for Privacy and Security Controls| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/socure-digital-identity-verification-platform-130100962.html
+[TIME] May 09, 2018---09:16:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:16:55  Not Send | Ticker: [HMNY] Title: <u class="StretchedBox"></u>Nutrisystem, Inc. Named Customer Service Department of the Year for Third Consecutive Year| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/nutrisystem-inc-named-customer-department-130100726.html
+[TIME] May 09, 2018---09:16:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:17:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:17:09  Not Send | Ticker: [ISBG] Title: ISBG Prepares to Launch RWB Ultra Premium Handcrafted Vodka Nationally| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/09/1499563/0/en/ISBG-Prepares-to-Launch-RWB-Ultra-Premium-Handcrafted-Vodka-Nationally.html
+[TIME] May 09, 2018---09:17:12  Not Send | Ticker: [PTFE] Title: <u class="StretchedBox"></u>The PTFE market is estimated to be USD 1.97 billion in 2017 and is projected to reach USD 2.66 billion by 2022, at a CAGR of 6.1% from 2017 to 2022| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/ptfe-market-estimated-usd-1-131000360.html
+[TIME] May 09, 2018---09:17:13  Not Send | Ticker: [BGCI] Title: <u class="StretchedBox"></u>Bloomberg And Galaxy Digital Capital Management Launch Cryptocurrency Benchmark Index| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/bloomberg-galaxy-digital-capital-management-130600494.html
+[TIME] May 09, 2018---09:17:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 09, 2018---09:17:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true

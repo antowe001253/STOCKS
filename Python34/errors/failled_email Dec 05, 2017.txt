@@ -1,0 +1,267 @@
+[TIME] Dec 05, 2017---00:02:59  Not Send | Ticker: [VMS] Title: Heron Secures Peelwood District Historical Data and Pegs Additional Tenements Providing Full Coverage of the Prospective VMS Ground| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228810/0/en/Heron-Secures-Peelwood-District-Historical-Data-and-Pegs-Additional-Tenements-Providing-Full-Coverage-of-the-Prospective-VMS-Ground.html
+[TIME] Dec 05, 2017---00:05:26  Not Send | Ticker: [DNR] Title: Denbury Resources to Present at Capital One Securities 12th Annual Energy Conference| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228811/0/en/Denbury-Resources-to-Present-at-Capital-One-Securities-12th-Annual-Energy-Conference.html
+[TIME] Dec 05, 2017---05:22:09  Not Send | Ticker: [HSA] Title: New Survey From HSA Foundation Highlights Importance, Benefits of Heterogeneous Systems| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/new-survey-from-hsa-foundation-highlights-importance-benefits-heterogeneous-systems-2242631.htm
+[TIME] Dec 05, 2017---05:22:38  Not Send | Ticker: [PPA] Title: Agrochemical Regulatory Situation Brazil 2017 - Market is Estimated at US$10 Billion| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228914/0/en/Agrochemical-Regulatory-Situation-Brazil-2017-Market-is-Estimated-at-US-10-Billion.html
+[TIME] Dec 05, 2017---05:22:38  Not Send | Ticker: [EU] Title: Transactions in relation to share buyback program| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228912/0/en/Transactions-in-relation-to-share-buyback-program.html
+[TIME] Dec 05, 2017---05:55:27  Not Send | Ticker: [HSA] Title: New Survey From HSA Foundation Highlights Importance, Benefits of Heterogeneous Systems| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/new-survey-from-hsa-foundation-highlights-importance-benefits-heterogeneous-systems-2242631.htm
+[TIME] Dec 05, 2017---05:55:42  Not Send | Ticker: [FMI] Title: Smart Camera Market is expected to register a CAGR of 18.7% through 2017 to 2027 - FMI| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228926/0/en/Smart-Camera-Market-is-expected-to-register-a-CAGR-of-18-7-through-2017-to-2027-FMI.html
+[TIME] Dec 05, 2017---06:00:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:01:48  Not Send | Ticker: [FWZ] Title: Fireweed Intersects 38 meters of 8.73% Zinc, 7.62% Lead and 129 g/t Silver&#160;including 25 meters of 10.62% Zinc, 10.32% Lead and 178 g/t Silver| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228941/0/en/Fireweed-Intersects-38-meters-of-8-73-Zinc-7-62-Lead-and-129-g-t-Silver-including-25-meters-of-10-62-Zinc-10-32-Lead-and-178-g-t-Silver.html
+[TIME] Dec 05, 2017---06:16:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Dec 05, 2017---06:16:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Dec 05, 2017---06:16:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.marketwired.com/news_room/all_news/?headlines-only=HLO
+[TIME] Dec 05, 2017---06:16:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:16:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] Dec 05, 2017---06:16:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Dec 05, 2017---06:16:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Dec 05, 2017---06:16:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.marketwired.com/news_room/all_news/?headlines-only=HLO
+[TIME] Dec 05, 2017---06:16:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:16:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] Dec 05, 2017---06:22:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:22:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:22:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:23:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:23:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:23:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:23:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:23:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:24:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:24:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:24:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:24:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:25:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:25:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:25:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:25:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:26:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:26:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:26:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:26:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:26:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:27:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:27:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:27:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:27:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:27:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:28:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:28:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:28:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:28:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:29:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:29:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:29:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:29:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:29:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:30:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:30:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:30:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:30:46  Not Send | Ticker: [TM] Title: Tri Delta Transit Makes the Switch to Cleaner Burning, 100% Renewable and Sustainable Neste MY Renewable Diesel  | Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228955/0/en/Tri-Delta-Transit-Makes-the-Switch-to-Cleaner-Burning-100-Renewable-and-Sustainable-Neste-MY-Renewable-Diesel.html
+[TIME] Dec 05, 2017---06:30:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:31:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:31:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:31:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---06:31:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://www.globenewswire.com/
+[TIME] Dec 05, 2017---07:01:13  Not Send | Ticker: [MBRX] Title: Moleculin's WP1066 Drug gets FDA Brain Tumor IND Clearance| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/moleculins-wp1066-drug-gets-fda-brain-tumor-ind-clearance-nasdaq-mbrx-2242646.htm
+[TIME] Dec 05, 2017---07:01:14  Not Send | Ticker: [MJ] Title: True Leaf to Present at LD Micro 10th Annual Main Event Investor Conference| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/true-leaf-to-present-at-ld-micro-10th-annual-main-event-investor-conference-cse-mj-2242642.htm
+[TIME] Dec 05, 2017---07:02:22  Not Send | Ticker: [MI] Title: Dental Equipment &amp; Consumables Market worth over USD 32 Billion By 2024: Global Market Insights, Inc.| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228991/0/en/Dental-Equipment-Consumables-Market-worth-over-USD-32-Billion-By-2024-Global-Market-Insights-Inc.html
+[TIME] Dec 05, 2017---07:02:37  Not Send | Ticker: [HSY] Title: Chocolate on Chocolate on Chocolate: Hershey’s Cookie Layer Crunch Launches New Triple Chocolate Flavor| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1228990/0/en/Chocolate-on-Chocolate-on-Chocolate-Hershey-s-Cookie-Layer-Crunch-Launches-New-Triple-Chocolate-Flavor.html
+[TIME] Dec 05, 2017---07:11:17  Not Send | Ticker: [DCOI] Title: Nlyte Expands Its Solution for the Federal Data Center Optimization Initiative (DCOI) With New Analytics Module | Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229006/0/en/Nlyte-Expands-Its-Solution-for-the-Federal-Data-Center-Optimization-Initiative-DCOI-With-New-Analytics-Module.html
+[TIME] Dec 05, 2017---07:36:35  Not Send | Ticker: [AWS] Title: PacketFabric Achieves Amazon Web Services Networking Competency Status| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229028/0/en/PacketFabric-Achieves-Amazon-Web-Services-Networking-Competency-Status.html
+[TIME] Dec 05, 2017---08:01:30  Not Send | Ticker: [GPH] Title: Graphite One Successfully Completes $707,185 Financing| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/graphite-one-successfully-completes-707185-financing-tsx-venture-gph-2242661.htm
+[TIME] Dec 05, 2017---08:01:30  Not Send | Ticker: [OSK] Title: Osisko Intersects 30 g/t Au Over 2.4 Metres at Windfall| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/osisko-intersects-30-g-t-au-over-24-metres-at-windfall-tsx-osk-2242658.htm
+[TIME] Dec 05, 2017---08:03:45  Not Send | Ticker: [ID] Title: CyberKnife Center of Miami Selects Identillect’s Delivery Trust™ to Secure Sensitive HIPAA Information| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229078/0/en/CyberKnife-Center-of-Miami-Selects-Identillect-s-Delivery-Trust-to-Secure-Sensitive-HIPAA-Information.html
+[TIME] Dec 05, 2017---08:03:45  Not Send | Ticker: [VTSI] Title: VirTra Launches Training Simulator Cartridges for TASER| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229076/0/en/VirTra-Launches-Training-Simulator-Cartridges-for-TASER.html
+[TIME] Dec 05, 2017---08:06:31  Not Send | Ticker: [CEO] Title: FiberLight Appoints Growth Leader Don MacNeil to Chief Executive Officer| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229085/0/en/FiberLight-Appoints-Growth-Leader-Don-MacNeil-to-Chief-Executive-Officer.html
+[TIME] Dec 05, 2017---08:30:48  Not Send | Ticker: [OBMP] Title: 100% of Prostate Cancer Patients Completing 31-Week Post-Therapy Exam After Treatment with OncBioMune Immunotherapy Show No Disease Progression| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229096/0/en/100-of-Prostate-Cancer-Patients-Completing-31-Week-Post-Therapy-Exam-After-Treatment-with-OncBioMune-Immunotherapy-Show-No-Disease-Progression.html
+[TIME] Dec 05, 2017---08:32:40  Not Send | Ticker: [IWSY] Title: ImageWare Systems and Secure Channels to Provide First Biometrically Protected Entertainment Security Operations Center| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229116/0/en/ImageWare-Systems-and-Secure-Channels-to-Provide-First-Biometrically-Protected-Entertainment-Security-Operations-Center.html
+[TIME] Dec 05, 2017---08:58:49  Not Send | Ticker: [FMI] Title: Outpatient Clinics Market Size to be US$ 39,000 Mn by 2022 | CAGR 4.3% - Future Market Insights| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229139/0/en/Outpatient-Clinics-Market-Size-to-be-US-39-000-Mn-by-2022-CAGR-4-3-Future-Market-Insights.html
+[TIME] Dec 05, 2017---09:01:10  Not Send | Ticker: [JSA] Title: CENX Named Among '50 Fastest Growing Tech Companies 2017' by The Silicon Review Magazine | Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/cenx-named-among-50-fastest-growing-tech-companies-2017-the-silicon-review-magazine-2242676.htm
+[TIME] Dec 05, 2017---09:05:20  Not Send | Ticker: [DTGI] Title: Digerati Technologies, Inc. Completes Acquisition of Synergy Telecom, Inc.| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229184/0/en/Digerati-Technologies-Inc-Completes-Acquisition-of-Synergy-Telecom-Inc.html
+[TIME] Dec 05, 2017---09:07:09  Not Send | Ticker: [WLTW] Title: Majority of U.S. employees (61%) do not believe their employers’ well-being initiatives meet their needs| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229190/0/en/Majority-of-U-S-employees-61-do-not-believe-their-employers-well-being-initiatives-meet-their-needs.html
+[TIME] Dec 05, 2017---09:17:43  Not Send | Ticker: [CTHR] Title: Charles &amp; Colvard Launches Love Green, Live Green Initiative with Rare Green Moissanite Jewelry to Support Environmental Conservation | Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229200/0/en/Charles-Colvard-Launches-Love-Green-Live-Green-Initiative-with-Rare-Green-Moissanite-Jewelry-to-Support-Environmental-Conservation.html
+[TIME] Dec 05, 2017---10:05:26  Not Send | Ticker: [YRCW] Title: YRC Worldwide Named to Security Magazine’s 2017 &quot;Security 500&quot;| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229260/0/en/YRC-Worldwide-Named-to-Security-Magazine-s-2017-Security-500.html
+[TIME] Dec 05, 2017---10:09:51  Not Send | Ticker: [CAGR] Title: Specialty Chemicals Market: By Global Industry Analysis, Type, Application, Cost, chemical industry Growth, End User Outlook, Forecast 2023| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229265/0/en/Specialty-Chemicals-Market-By-Global-Industry-Analysis-Type-Application-Cost-chemical-industry-Growth-End-User-Outlook-Forecast-2023.html
+[TIME] Dec 05, 2017---10:14:16  Not Send | Ticker: [CAGR] Title: Bakery Packaging Market: By Global Industry Analysis, Type, Application, Cost, Growth, End User Outlook, Forecast 2023| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229267/0/en/Bakery-Packaging-Market-By-Global-Industry-Analysis-Type-Application-Cost-Growth-End-User-Outlook-Forecast-2023.html
+[TIME] Dec 05, 2017---10:22:10  Not Send | Ticker: [AZX] Title: Alexandria Intersects 52.83 g/t Gold Over 4.55 m Orenada Zone 4, Continues to Define and Expand Gold Mineralization at Shallow Levels| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229274/0/en/Alexandria-Intersects-52-83-g-t-Gold-Over-4-55-m-Orenada-Zone-4-Continues-to-Define-and-Expand-Gold-Mineralization-at-Shallow-Levels.html
+[TIME] Dec 05, 2017---10:25:48  Not Send | Ticker: [CAGR] Title: Cups And Lids Market: By Global Industry Analysis, Type, Application, Cost, Growth, End User Outlook, Forecast 2023| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229277/0/en/Cups-And-Lids-Market-By-Global-Industry-Analysis-Type-Application-Cost-Growth-End-User-Outlook-Forecast-2023.html
+[TIME] Dec 05, 2017---10:32:14  Not Send | Ticker: [CAGR] Title: Dairy Testing Market: By Global Industry Analysis, Type, Application, Cost, Growth, End User Outlook, Forecast 2023| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229280/0/en/Dairy-Testing-Market-By-Global-Industry-Analysis-Type-Application-Cost-Growth-End-User-Outlook-Forecast-2023.html
+[TIME] Dec 05, 2017---10:34:58  Not Send | Ticker: [CAGR] Title: Organic Hair Care Market: By Global Industry Analysis, Type, Application, Cost, Growth, End User Outlook, Forecast 2023| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229282/0/en/Organic-Hair-Care-Market-By-Global-Industry-Analysis-Type-Application-Cost-Growth-End-User-Outlook-Forecast-2023.html
+[TIME] Dec 05, 2017---11:02:58  Not Send | Ticker: [NFV] Title: Barefoot Networks Launches Deep Insight™, Enabling Network Owners to See What Every Packet Is Doing. To the Nanosecond.| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229303/0/en/Barefoot-Networks-Launches-Deep-Insight-Enabling-Network-Owners-to-See-What-Every-Packet-Is-Doing-To-the-Nanosecond.html
+[TIME] Dec 05, 2017---11:16:44  Not Send | Ticker: [CBD] Title: Freedom Leaf’s Wholly Owned Division, Leafceuticals Inc., Launches CO2 Supercritical Extraction Facility Operations in Nevada In Conjunction With NV Hemp Producer and Reliable Steel, a Leading Las Vegas Fabricator| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229317/0/en/Freedom-Leaf-s-Wholly-Owned-Division-Leafceuticals-Inc-Launches-CO2-Supercritical-Extraction-Facility-Operations-in-Nevada-In-Conjunction-With-NV-Hemp-Producer-and-Reliable-Steel-a.html
+[TIME] Dec 05, 2017---11:46:29  Not Send | Ticker: [RDNT] Title: RadNet, Inc. to Present at 10th Annual LD Micro Main Event Conference in Los Angeles on December 7th| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229328/0/en/RadNet-Inc-to-Present-at-10th-Annual-LD-Micro-Main-Event-Conference-in-Los-Angeles-on-December-7th.html
+[TIME] Dec 05, 2017---12:27:56  Not Send | Ticker: [HSNI] Title:  HSN and the University of Tampa to Host the Second American Dreams Academy in Florida| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229361/0/en/HSN-and-the-University-of-Tampa-to-Host-the-Second-American-Dreams-Academy-in-Florida.html
+[TIME] Dec 05, 2017---13:11:38  Not Send | Ticker: [CSA] Title: Canna Security America (CSA) (OTCQB: CSAX) Discusses Cannabis Cash Transport In Interview with President, Tom Siciliano| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229379/0/en/Canna-Security-America-CSA-OTCQB-CSAX-Discusses-Cannabis-Cash-Transport-In-Interview-with-President-Tom-Siciliano.html
+[TIME] Dec 05, 2017---14:34:24  Not Send | Ticker: [ATRS] Title: The Klein Law Firm Reminds Investors of a Class Action Filed on Behalf of Antares Pharma, Inc. Shareholders and a Lead Plaintiff Deadline of December 22, 2017 (ATRS)| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229415/0/en/The-Klein-Law-Firm-Reminds-Investors-of-a-Class-Action-Filed-on-Behalf-of-Antares-Pharma-Inc-Shareholders-and-a-Lead-Plaintiff-Deadline-of-December-22-2017-ATRS.html
+[TIME] Dec 05, 2017---14:36:36  Not Send | Ticker: [ROIC] Title: Retail Opportunity Investments Corp. Schedules Fourth Quarter &amp; Year-End Earnings Release and Conference Call| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229414/0/en/Retail-Opportunity-Investments-Corp-Schedules-Fourth-Quarter-Year-End-Earnings-Release-and-Conference-Call.html
+[TIME] Dec 05, 2017---15:08:47  Not Send | Ticker: [TVTY] Title: The Klein Law Firm Notifies Shareholders of a Class Action Filed on Behalf of Tivity Health, Inc. Shareholders and a Lead Plaintiff Deadline of January 19, 2018 (TVTY)| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229426/0/en/The-Klein-Law-Firm-Notifies-Shareholders-of-a-Class-Action-Filed-on-Behalf-of-Tivity-Health-Inc-Shareholders-and-a-Lead-Plaintiff-Deadline-of-January-19-2018-TVTY.html
+[TIME] Dec 05, 2017---15:37:10  Not Send | Ticker: [PET] Title: U.S. Synthetic Plastic Barrier Market to See 2.4% Annual Growth Through 2022| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229432/0/en/U-S-Synthetic-Plastic-Barrier-Market-to-See-2-4-Annual-Growth-Through-2022.html
+[TIME] Dec 05, 2017---15:49:27  Not Send | Ticker: [RER] Title: Remo Files Filing Statement for Reverse Takeover With Chakana Copper Corp.| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229436/0/en/Remo-Files-Filing-Statement-for-Reverse-Takeover-With-Chakana-Copper-Corp.html
+[TIME] Dec 05, 2017---16:31:48  Not Send | Ticker: [AXDDF] Title: Almadex Cuts 108.00 M of 0.88 G/T Gold and 0.29% Copper Including 80.00 M of 1.11 G/T Gold and 0.36% Copper at the Porvenir Zone, the Fourth in the El Cobre Project Cluster of Copper Gold Porphyry Zones| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/almadex-cuts-10800-m-088-g-t-gold-029-copper-including-8000-m-111-g-t-gold-036-copper-tsx-venture-amz-2242732.htm
+[TIME] Dec 05, 2017---16:51:16  Not Send | Ticker: [MTX] Title: Minerals Technologies Inc. and its Subsidiary American Colloid Company Celebrate Local Manufacturing; Wyoming Plants Supply Products to the $2.7 Billion U.S. Cat Litter Market| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229491/0/en/Minerals-Technologies-Inc-and-its-Subsidiary-American-Colloid-Company-Celebrate-Local-Manufacturing-Wyoming-Plants-Supply-Products-to-the-2-7-Billion-U-S-Cat-Litter-Market.html
+[TIME] Dec 05, 2017---17:02:48  Not Send | Ticker: [ASH] Title: Adaptimmune Data to be Presented at American Society of Hematology (ASH) Annual Meeting Confirm NY-ESO SPEAR T-cell Efficacy in Multiple Myeloma Pilot Study| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229496/0/en/Adaptimmune-Data-to-be-Presented-at-American-Society-of-Hematology-ASH-Annual-Meeting-Confirm-NY-ESO-SPEAR-T-cell-Efficacy-in-Multiple-Myeloma-Pilot-Study.html
+[TIME] Dec 05, 2017---17:14:10  Not Send | Ticker: [TRGP] Title: Targa Resources Corp. to Participate in the 2017 Wells Fargo Securities Pipeline, MLP and Utility Symposium| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229498/0/en/Targa-Resources-Corp-to-Participate-in-the-2017-Wells-Fargo-Securities-Pipeline-MLP-and-Utility-Symposium.html
+[TIME] Dec 05, 2017---18:19:22  Not Send | Ticker: [PHGI] Title: Premier (CSE: PHGI) Preparing Application for OTCQB Initiated| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/05/1229509/0/en/Premier-CSE-PHGI-Preparing-Application-for-OTCQB-Initiated.html
+[TIME] Dec 05, 2017---20:01:13  Not Send | Ticker: [BB] Title: BlackBerry Secures Indonesia's Oil and Gas Sector from Cyberthreats| Source: http://www.marketwired.com/news_room/all_news/?headlines-only=HLO| Link:http://www.marketwired.com/press-release/blackberry-secures-indonesias-oil-and-gas-sector-from-cyberthreats-nyse-bb-2242738.htm
+[TIME] Dec 05, 2017---23:27:34  Not Send | Ticker: [BMN] Title: Membrane Study initial test work successfully completed| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2017/12/06/1233792/0/en/Membrane-Study-initial-test-work-successfully-completed.html

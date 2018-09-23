@@ -1,0 +1,46 @@
+06-01-2018  CVS 2830939 0.90 63.850 63.97-14:02:05 business May 27  2018 13 45 ET  p    h1 Bombardier Grows its Global Family of Business Jets with Launch  of Global 5500 and Global 6500 Aircraft  h1    p  strong  p   The Bombardier Global 5500 and Global 6500 aircraft have the smoothest ride  the largest cabins and the longest range in their class  p  p   p  p   With a newly optimized wing and an all new Rolls Royce engine  these aircraft fly farther  faster and deliver unmatched total performance  p  p   p  p   Designed around Bombardier s patented Nuage seating  the spacious cabins aboard the Global 5500 and Global 6500 aircraft feature unprecedented levels of innovation and comfort   p  p   p  p   Rounding out Bombardier s class leading Global aircraft family  the Global 5500 and Global 6500 aircraft are expected to enter service at the end of 2019  p   strong   p    p    
+06-01-2018  JMEI 897103 1.70 2.600 2.593-14:02:32 equity Jumei Announces Disposal of a Portion of its Equity Interest in BabyTree NYSE JMEI
+06-01-2018  QTNT 197700 -0.19 7.27 7.4-14:05:13 appointment Quotient Limited Reports Fourth Quarter and Fiscal Year 2018 Financial Results and Updates on CEO Appointment and MosaiQ  European Field Trials Nasdaq QTNT
+06-01-2018  MBG 14719 0.70 25.38 25.49-13:55:58 business Malbex Resources Announces Receipt Of Conditional Listing Approval And Filing Of Filing Statement In Respect Of Change Of Business Transaction TSX Venture Exchange MBG
+06-01-2018  GMS 170453 -1 30.46 30.43-13:34:34 paris Ingenico Group achieves a world first in the payment industry with the Google Mobile Services certification of its Axium D7 Paris Stock Exchange ING
+06-01-2018  ESPR 519596 3.97 38.43 39.56-13:38:29 appointment Esperion Announces the Appointment of Jay P  Shepard to Board of Directors Nasdaq ESPR
+06-01-2018  FDS 267763 0.98 198.60 201.93-13:38:37 earnings third earnings FactSet Schedules Third Quarter 2018 Earnings Call NYSE FDS
+06-01-2018  ORG -1 -1 -1 None-10:23:03 mining Orca Gold Inc  Receives C 22 Million Strategic Investment from Resolute Mining Limited TSX Venture Exchange ORG
+06-01-2018  SYNL 7556 0.12 19.15 19.15-13:41:48 business Synalloy Executes Agreement to Purchase and Leaseback Munhall Property for  10 0 Million and Announces Planned Agreement to Purchase Marcegaglia s Galvanized Tube Business for  10 0 Million Nasdaq SYNL
+06-01-2018  DFFN 19443 -1.81 0.49 0.49-13:42:32 business CORRECTION  Diffusion Pharmaceuticals Reports First Quarter 2018 Financial Results and Provides Business Update Nasdaq DFFN
+06-05-2018  BIO 176146 0.94 290.97 292.88-16:03:28 business Celltrion Launches Bio CDMO Business for the Development of New Drugs
+06-05-2018  CMTL 164767 1.14 32.58 32.98-15:46:13 third Comtech Telecommunications Corp  to Report Third Quarter of Fiscal 2018 Results on June 6th
+06-05-2018  ICLK 388835 -1 8.49 7.9-19:10:40 appointment iClick Interactive Asia Group Limited Announces Appointment of New Independent Director Nasdaq ICLK
+06-05-2018  LLEX 580280 -0.85 5.21 5.08-19:11:21 appointment Lilis Energy Announces Appointment of David M  Wood to Board of Directors NYSE LLEX
+06-05-2018  TBK 184943 1.06 39.55 41.1-19:11:28 business Triumph Business Capital Completes Acquisition of the Transportation Factoring Assets of Interstate Capital Corporation Nasdaq TBK
+06-05-2018  SN 1374961 2.40 3.670 3.755-15:45:48 dividends Sanchez Energy to Pay Dividends on Series A and Series B Convertible Perpetual Preferred Stock in Cash NYSE SN
+06-05-2018  HT 435628 1.32 21.33 21.51-15:48:06 dividends Hersha Hospitality Trust Announces Quarterly Dividends NYSE HT
+06-04-2018  AXU 352681 0.44 1.33 1.35-11:45:23 equity Alexco Announces C 7 5 Million Flow Through Equity Financing Toronto Stock Exchange AXR
+06-05-2018  ALOG 176731 0.64 83.80 83.9-15:50:49 third Analogic Announces Results for the Third Quarter Ended April 30  2018 Nasdaq ALOG
+06-05-2018  NEWT 565109 1.05 20.10 19.58-15:52:24 business Newtek Small Business Finance  LLC Receives Reduction in Interest Rate for  100 0 Million Capital One Revolving Credit Facility Nasdaq NEWT
+06-05-2018  PSEC 1039210 0.50 6.83 6.82-15:52:28 secured Prospect Capital Purchases  80 Million of First Lien Senior Secured Floating Rate Notes and Revolving Credit Issued by Eze Castle Integration Nasdaq PSEC
+06-05-2018  COUP 3838802 -1 57.000 59.885-15:54:40 third Coupa Named a Leader in the Gartner 2018 Magic Quadrant for Procure to Pay Suites for Third Consecutive Time Nasdaq COUP
+06-05-2018  TSLA 3879256 0.94 297.70 287.97-13:39:06 airlines Companies to watch  21st Century Fox  Mylan  United Airlines and Boeing  Video 
+06-05-2018  AST 97627 2.36 1.70 1.6-16:03:24 last Asterias Biotherapeutics Announces Independent Data Monitoring Committee Completes Last Intermediate Review of AST OPC1 Clinical Trial in Acute Spinal Cord Injury NYSE AST
+06-07-2018  AMBS 529533 -0.91 0.0500 0.0472-08:48:20 manf MANF Therapeutics Announces Publication of Positive Data for MANF in Stroke Animal Model in AAAS Journal Science Advances Other OTC AMBS
+06-07-2018  DEPO 401097 0.86 6.34 6.42-08:48:10 appointment Depomed Announces the Appointment of Phillip B  Donenberg as Chief Financial Officer Nasdaq DEPO
+06-05-2018  GMV 2773365 0.91 114.65 114.63-16:00:47 business ITEX Barter Canada Teams Up With Ontario Entertainment and Business Leaders for the First Ever Business Cash Giveaway Contest 
+06-05-2018  TM 71343 0.97 133.63 133.36-15:43:03 mining Trigon Metals Announces Release of Feasibility Study That Shows a 103 4  IRR for Its Kombat Surface Mining Operations and Plant Restart TSX Venture Exchange TM
+06-07-2018  SMI 196191 0.55 6.79 6.7-08:47:59 appointment Saturn Oil  amp  Gas Inc  Announces Appointment of Board Director and VP of Finance TSX Venture Exchange SMI
+06-06-2018  SMBC -1 -1 -1 None-08:55:37 business Factors of Influence in 2018  Key Indicators and Opportunity within Southern Missouri  Marlin Business Services  Golden Ocean Group  Orthofix International N V  Greenlight Capital Re  and ServiceSource International   New Research Emphasizes Economic Growth 
+06-07-2018  NITE 10410 -1 14.72 14.28-08:56:43 third Nightstar Therapeutics Reports First Quarter 2018 Financial Results and Acceleration of Preliminary NSR RPGR Readout to Third Quarter 2018 Nasdaq NITE
+06-07-2018  WGO 1458665 1.24 36.45 38.85-08:58:34 third Winnebago Industries  39  Third Quarter Fiscal 2018 Financial Results Announcement to Be Made on June 20  2018 NYSE WGO
+06-07-2018  VZ 7073244 0.74 47.96 48.97-11:19:19 business Business Owners  Looking to Spend More Time and Money on IT   If Not  Verizon Network Solution Can Help You Securely Manage Your Tech NYSE VZ
+06-07-2018  WIN 839484 -0.25 5.87 5.88-09:00:54 secured Windstream Announces Results of Consent Solicitation to Amend Its 8 625  Senior First Lien Notes Due 2025 and Its Senior Secured Credit Facility Nasdaq WIN
+06-08-2018  WMS 543050 0.91 29.15 29.2-10:42:04 business EVS Partners with MuleSoft to Streamline Integration Between WMS and Business Applications 
+06-08-2018  ZS 832629 -1 37.49 40.38-10:22:27 third Zscaler Reports Third Quarter Fiscal 2018 Financial Results Nasdaq ZS
+06-08-2018  AMSC 77450 1.16 6.410 6.409-10:40:23 business AMSC Reports Fourth Quarter and Fiscal 2017 Financial Results and Provides Business Outlook Nasdaq AMSC
+06-08-2018  FCEL 219494 1.38 1.8500 1.7701-10:40:30 business FuelCell Energy Reports Second Quarter 2018 Financial Results and Business Update Nasdaq FCEL
+06-08-2018  CWBR 3859 0.98 8.74 8.43-10:42:59 appointment CohBar Announces the Appointment of Dr  Philippe Calais to its Board TSX Venture Exchange COB U
+06-07-2018  SAP 762062 1.26 117.89 117.15-13:19:55 earnings earnings June 07  2018 12 15 ET  p    h1 Saputo Inc   Financial Results for the Fiscal Year Ended March 31  2018  h1    p  strong  p Net earnings at  852 5 million  up 16 6   p  p   p  p Adjusted net earnings at  704 2 million  down 3 7   p  p   p  p Revenues at  11 543 billion  up 3 4   p   strong   p    p    
+06-07-2018  ATRA 520247 3.79 46.20 42.2-16:02:13 appointment Atara Biotherapeutics Announces Appointment of Utpal Koppikar as Chief Financial Officer Nasdaq ATRA
+06-08-2018  APC 452265 1.91 71.72 71.4-10:24:54 appointment Advanced Proteome Therapeutics Announces Appointment of Bill Dickie as Chief Executive Officer  President and Director TSX Venture Exchange APC
+06-08-2018  GSL 70826 0.66 1.48 1.47-10:26:01 lease Global Ship Lease Declares Quarterly Dividend on its 8 75  Series B Cumulative Redeemable Perpetual Preferred Shares NYSE GSL
+06-08-2018  EIGI 21683 1.57 8.95 8.95-10:26:12 secured Endurance International Group Announces Potential Repricing of Its Senior Secured Term Loan Nasdaq EIGI
+06-08-2018  SGH 721872 -1 45.09 41.4-10:29:32 third SMART Global Holdings to Announce Third Quarter Fiscal 2018 Financial Results on Thursday  June 21  2018 Nasdaq SGH
+06-08-2018  IR 97343 1.47 90.65 90.73-10:32:26 mining New Research  Key Drivers of Growth for Ingersoll Rand PLC  McEwen Mining  Sociedad Quimica y Minera S A   AstraZeneca  Worldpay  and Silver Wheaton   Factors of Influence  Major Initiatives and Sustained Production 

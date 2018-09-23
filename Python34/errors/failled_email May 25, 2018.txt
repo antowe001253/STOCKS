@@ -1,0 +1,2363 @@
+[TIME] May 25, 2018---12:55:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:55:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:55:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:55:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:55:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:55:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:56:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:56:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:56:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:56:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:56:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:56:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:56:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:56:43  Not Send | Ticker: [TOT] Title: Total Energy Services Inc. Repays 7.0% Senior Unsecured Notes| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512326/0/en/Total-Energy-Services-Inc-Repays-7-0-Senior-Unsecured-Notes.html
+[TIME] May 25, 2018---12:56:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:56:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:56:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:56:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:57:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:57:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:57:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:57:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:57:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:57:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:57:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:57:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:57:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:57:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:57:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:57:53  Not Send | Ticker: [TOT] Title: Total Energy Services Inc. Repays 7.0% Senior Unsecured Notes| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512326/0/en/Total-Energy-Services-Inc-Repays-7-0-Senior-Unsecured-Notes.html
+[TIME] May 25, 2018---12:57:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:57:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:57:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:58:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:58:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:58:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:58:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:58:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:58:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:58:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:58:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:58:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:58:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---12:59:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---12:59:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---12:59:35  Not Send | Ticker: [TOT] Title: Total Energy Services Inc. Repays 7.0% Senior Unsecured Notes| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512326/0/en/Total-Energy-Services-Inc-Repays-7-0-Senior-Unsecured-Notes.html
+[TIME] May 25, 2018---13:01:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:01:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:01:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:01:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:01:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:01:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:01:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:01:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:01:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:01:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:01:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:01:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:02:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:02:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:02:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:02:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:02:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:02:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:02:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:02:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:02:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:02:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:02:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:02:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:02:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:02:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:02:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:02:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:03:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:03:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:03:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:03:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:03:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:04:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:04:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:04:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:05:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:05:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:05:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:05:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:05:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:05:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:05:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:05:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:05:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:05:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:05:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:05:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:05:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:05:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:05:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:05:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:05:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:05:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:06:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:06:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:06:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:06:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:06:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:06:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:06:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:06:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:06:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:06:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:06:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:06:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:06:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:06:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:06:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:07:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:07:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:07:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:07:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:07:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:07:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:07:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:07:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:07:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:08:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:08:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:08:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:09:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:09:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:09:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:09:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:09:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:09:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:09:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:09:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:09:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:10:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:10:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:10:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:10:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:10:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:10:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:10:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:10:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:10:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:10:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:10:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:10:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:10:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:10:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:10:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:11:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:11:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:11:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:11:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:11:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:11:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:11:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:11:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:11:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:11:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:12:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:12:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:13:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:13:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:13:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:13:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:13:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:13:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:13:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:13:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:13:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:13:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:13:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:13:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:13:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:13:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:13:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:13:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:14:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:14:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:14:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:14:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:14:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:14:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:14:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:14:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:14:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:14:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:14:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:14:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:14:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:14:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:14:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:15:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:15:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:15:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:15:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:15:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:15:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:15:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:15:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:15:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:15:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:15:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:15:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:15:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:15:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:16:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:16:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:17:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:17:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:17:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:17:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:17:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:17:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:17:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:17:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:17:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:17:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:18:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:18:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:18:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:18:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:18:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:18:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:18:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:18:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:18:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:18:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:18:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:18:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:18:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:18:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:18:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:18:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:19:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:19:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:19:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:19:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:19:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:19:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:19:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:19:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:19:27  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:19:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:19:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:19:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:19:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:19:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:19:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:19:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:19:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:19:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:20:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:20:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:20:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:21:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:21:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:21:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:21:57  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:22:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:22:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:22:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:22:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:22:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:22:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:22:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:22:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:22:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:22:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:22:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:22:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:22:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:22:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:22:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:22:52  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:22:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:23:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:23:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:23:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:23:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:23:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:23:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:23:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:23:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:23:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:23:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:23:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:23:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:23:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:23:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:23:52  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:23:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:23:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:23:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:24:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:24:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:24:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:26:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:26:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:26:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:26:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:26:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:26:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:26:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:26:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:26:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:26:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:26:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:27:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:27:02  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:27:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:27:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:27:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:27:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:27:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:27:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:27:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:27:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:27:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:27:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:27:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:27:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:27:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:27:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:27:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:27:52  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:27:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:27:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:28:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:28:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:28:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:28:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:28:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:28:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:28:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:28:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:28:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:29:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:30:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:30:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:30:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:30:29  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:30:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:30:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:30:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:30:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:30:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:30:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:30:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:30:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:30:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:30:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:31:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:31:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:31:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:31:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:31:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:31:19  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:31:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:31:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:31:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:31:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:31:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:31:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:31:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:31:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:31:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:31:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:31:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:31:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:31:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:32:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:32:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:32:09  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:32:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:32:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:32:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:32:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:32:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:32:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:32:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:32:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:32:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:33:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:34:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:34:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:34:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:34:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:34:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:34:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:34:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:34:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:34:49  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:34:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:34:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:34:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:34:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:35:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:35:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:35:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:35:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:35:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:35:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:35:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:35:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:35:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:35:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:35:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:35:36  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:35:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:35:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:35:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:35:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:35:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:35:54 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:36:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:36:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:36:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:36:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:36:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:36:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:36:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:36:29 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:36:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:36:33  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:36:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:36:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:36:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:36:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:36:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:36:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:37:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:37:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:37:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:38:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:38:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:38:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:38:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:38:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:38:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:39:01  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:39:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:39:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:39:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:39:16 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:39:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:39:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:39:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:39:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:39:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:39:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:39:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:39:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:39:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:39:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:39:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:39:57  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:39:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:40:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:40:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:40:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:40:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:40:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:40:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:40:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:40:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:40:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:40:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:40:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:40:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:40:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:40:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:40:50  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:40:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:40:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:40:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:43:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:43:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:43:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:43:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:43:40  Not Send | Ticker: [NFLX] Title: <u class="StretchedBox" data-reactid="27"></u>
+                     <!-- react-text: 28 -->Glass Packaging Market in Europe 2018-2022: Decreasing ROI and EBITDA Margins Presents Market Challenges - ResearchAndMarkets.com
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/glass-packaging-market-europe-2018-171400942.html
+[TIME] May 25, 2018---13:43:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:44:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:44:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:44:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:44:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:44:45  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:44:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:45:01 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:45:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:45:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:45:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:45:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:45:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:45:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:46:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:46:57 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:46:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:47:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:47:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:47:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:47:21  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:47:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:47:27 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:47:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:47:33 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:47:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:47:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:47:45 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:47:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:47:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:47:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:48:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:48:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:48:19 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:48:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:48:24  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:48:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:48:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:48:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:48:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:48:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:48:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:48:58 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:49:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:49:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:49:10 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:49:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:49:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:49:20 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:49:21 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:49:24  Not Send | Ticker: [FLR] Title: SHAREHOLDER ALERT: Levi &amp; Korsinsky, LLP Notifies Shareholders It Filed a Complaint to Recover Losses Suffered by Fluor Corporation Investors and Set a Lead Plaintiff Deadline of July 24, 2018| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/05/25/1512341/0/en/SHAREHOLDER-ALERT-Levi-Korsinsky-LLP-Notifies-Shareholders-It-Filed-a-Complaint-to-Recover-Losses-Suffered-by-Fluor-Corporation-Investors-and-Set-a-Lead-Plaintiff-Deadline-of-July-.html
+[TIME] May 25, 2018---13:49:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:49:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:49:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:59:05 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:59:13 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:59:14 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:59:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---13:59:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---13:59:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---13:59:51 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:00:03  Not Send | Ticker: [NFLX] Title: <u class="StretchedBox" data-reactid="121"></u>
+                     <!-- react-text: 122 -->Global High Strength Steel Market Analysis, Growth, Trends &amp; Forecast 2018-2023, With a Projected CAGR of 7.9% - ResearchAndMarkets.com
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/global-high-strength-steel-market-170300003.html
+[TIME] May 25, 2018---14:00:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:00:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:00:22 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:00:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:00:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:00:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:00:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:00:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:00:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:00:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:00:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:01:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:01:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:01:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:01:11 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:01:12 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:01:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:01:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:03:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:03:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:03:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:03:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:03:56 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:04:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:04:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:04:24  Not Send | Ticker: [NFLX] Title: <u class="StretchedBox" data-reactid="82"></u>
+                     <!-- react-text: 83 -->Glass Packaging Market in Europe 2018-2022: Decreasing ROI and EBITDA Margins Presents Market Challenges - ResearchAndMarkets.com
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/glass-packaging-market-europe-2018-171400942.html
+[TIME] May 25, 2018---14:04:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:04:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:04:41 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:04:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:05:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:05:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:05:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:05:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:05:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:05:43 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:05:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:05:50 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:06:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:06:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:06:37 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:07:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:07:47 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:08:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:08:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:08:17 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:08:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:08:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:08:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:08:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:08:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:08:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:08:46 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:08:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:09:06 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:09:18 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:09:23 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:09:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:09:32 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:09:44 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] May 25, 2018---14:09:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] May 25, 2018---14:09:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] May 25, 2018---14:09:59 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true

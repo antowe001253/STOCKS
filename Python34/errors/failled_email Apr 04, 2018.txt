@@ -1,0 +1,187 @@
+[TIME] Apr 04, 2018---06:01:39 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:01:40 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:02:00 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-prnewswire/?bypass=true
+[TIME] Apr 04, 2018---06:02:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:02:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:02:31 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:02:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:03:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:03:10  Not Send | Ticker: [SAO] Title: Swimlane Augments Its Automated Security Platform With Lastline Integration| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459808/0/en/Swimlane-Augments-Its-Automated-Security-Platform-With-Lastline-Integration.html
+[TIME] Apr 04, 2018---06:03:12  Not Send | Ticker: [BBB] Title: The Winnipeg Home &amp; Garden Show’s ticket sponsor, RenovationFind - a free online directory of Certified contractors, launches in Winnipeg!| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459806/0/en/The-Winnipeg-Home-Garden-Show-s-ticket-sponsor-RenovationFind-a-free-online-directory-of-Certified-contractors-launches-in-Winnipeg.html
+[TIME] Apr 04, 2018---06:03:12  Not Send | Ticker: [FSCT] Title: ForeScout Expands Device Visibility Platform to Secure the Extended Enterprise| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459805/0/en/ForeScout-Expands-Device-Visibility-Platform-to-Secure-the-Extended-Enterprise.html
+[TIME] Apr 04, 2018---06:03:16  Not Send | Ticker: [NDAQ] Title: National Cyber Security Alliance to Ring The Nasdaq Stock Market Opening Bell| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459802/0/en/National-Cyber-Security-Alliance-to-Ring-The-Nasdaq-Stock-Market-Opening-Bell.html
+[TIME] Apr 04, 2018---06:03:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:03:28  Not Send | Ticker: [VOC] Title: <u class="StretchedBox" data-reactid="30"></u>
+                     <!-- react-text: 31 -->Textile Dyes Market Worth 9.82 Billion USD by 2022
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/textile-dyes-market-worth-9-093000826.html
+[TIME] Apr 04, 2018---06:03:29  Not Send | Ticker: [GBLX] Title: <u class="StretchedBox" data-reactid="46"></u>
+                     <!-- react-text: 47 -->GB Sciences Completes Nanotechnology Transfer of Exclusively-Licensed, Cannabinoid-Based, Time-Released Neuropathic Pain Formula
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/gb-sciences-completes-nanotechnology-transfer-093000905.html
+[TIME] Apr 04, 2018---06:03:29  Not Send | Ticker: [LNG] Title: <u class="StretchedBox" data-reactid="59"></u>
+                     <!-- react-text: 60 -->Nitrous Oxide Market Size Worth $1.47 Billion by 2025 | CAGR: 7.1%: Grand View Research, Inc.
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/nitrous-oxide-market-size-worth-092000349.html
+[TIME] Apr 04, 2018---06:03:30  Not Send | Ticker: [SEC] Title: <u class="StretchedBox" data-reactid="85"></u>
+                     <!-- react-text: 86 -->Generational Equity Advises Carbonic Systems in Sale to Airgas
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/generational-equity-advises-carbonic-systems-090100869.html
+[TIME] Apr 04, 2018---06:03:36 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:03:52 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:04:04 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:04:27  Not Send | Ticker: [SEC] Title: <u class="StretchedBox" data-reactid="43"></u>
+                     <!-- react-text: 44 -->Tilray&reg; Launches High Park Company™ to Produce and Distribute Adult-Use Cannabis in Canada
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tilray-launches-high-park-company-100000329.html
+[TIME] Apr 04, 2018---06:04:28 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:04:30 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:04:31  Not Send | Ticker: [SAO] Title: Swimlane Augments Its Automated Security Platform With Lastline Integration| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459808/0/en/Swimlane-Augments-Its-Automated-Security-Platform-With-Lastline-Integration.html
+[TIME] Apr 04, 2018---06:04:32  Not Send | Ticker: [BBB] Title: The Winnipeg Home &amp; Garden Show’s ticket sponsor, RenovationFind - a free online directory of Certified contractors, launches in Winnipeg!| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459806/0/en/The-Winnipeg-Home-Garden-Show-s-ticket-sponsor-RenovationFind-a-free-online-directory-of-Certified-contractors-launches-in-Winnipeg.html
+[TIME] Apr 04, 2018---06:04:32  Not Send | Ticker: [FSCT] Title: ForeScout Expands Device Visibility Platform to Secure the Extended Enterprise| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459805/0/en/ForeScout-Expands-Device-Visibility-Platform-to-Secure-the-Extended-Enterprise.html
+[TIME] Apr 04, 2018---06:04:38  Not Send | Ticker: [NDAQ] Title: National Cyber Security Alliance to Ring The Nasdaq Stock Market Opening Bell| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459802/0/en/National-Cyber-Security-Alliance-to-Ring-The-Nasdaq-Stock-Market-Opening-Bell.html
+[TIME] Apr 04, 2018---06:04:48 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:04:49 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:04:54  Not Send | Ticker: [VOC] Title: <u class="StretchedBox" data-reactid="30"></u>
+                     <!-- react-text: 31 -->Textile Dyes Market Worth 9.82 Billion USD by 2022
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/textile-dyes-market-worth-9-093000826.html
+[TIME] Apr 04, 2018---06:04:55  Not Send | Ticker: [GBLX] Title: <u class="StretchedBox" data-reactid="46"></u>
+                     <!-- react-text: 47 -->GB Sciences Completes Nanotechnology Transfer of Exclusively-Licensed, Cannabinoid-Based, Time-Released Neuropathic Pain Formula
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/gb-sciences-completes-nanotechnology-transfer-093000905.html
+[TIME] Apr 04, 2018---06:04:55  Not Send | Ticker: [LNG] Title: <u class="StretchedBox" data-reactid="59"></u>
+                     <!-- react-text: 60 -->Nitrous Oxide Market Size Worth $1.47 Billion by 2025 | CAGR: 7.1%: Grand View Research, Inc.
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/nitrous-oxide-market-size-worth-092000349.html
+[TIME] Apr 04, 2018---06:05:02  Not Send | Ticker: [SEC] Title: <u class="StretchedBox" data-reactid="27"></u>
+                     <!-- react-text: 28 -->H.I.G. Capital Completes the Sale of HelpSystems to HGGC
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/h-g-capital-completes-sale-100000183.html
+[TIME] Apr 04, 2018---06:05:02 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:05:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:05:26 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:05:42 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:06:00  Not Send | Ticker: [SEC] Title: <u class="StretchedBox" data-reactid="27"></u>
+                     <!-- react-text: 28 -->H.I.G. Capital Completes the Sale of HelpSystems to HGGC
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/h-g-capital-completes-sale-100000183.html
+[TIME] Apr 04, 2018---06:06:03 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:06:08 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:06:15  Not Send | Ticker: [SAO] Title: Swimlane Augments Its Automated Security Platform With Lastline Integration| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459808/0/en/Swimlane-Augments-Its-Automated-Security-Platform-With-Lastline-Integration.html
+[TIME] Apr 04, 2018---06:06:16  Not Send | Ticker: [BBB] Title: The Winnipeg Home &amp; Garden Show’s ticket sponsor, RenovationFind - a free online directory of Certified contractors, launches in Winnipeg!| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459806/0/en/The-Winnipeg-Home-Garden-Show-s-ticket-sponsor-RenovationFind-a-free-online-directory-of-Certified-contractors-launches-in-Winnipeg.html
+[TIME] Apr 04, 2018---06:06:17  Not Send | Ticker: [FSCT] Title: ForeScout Expands Device Visibility Platform to Secure the Extended Enterprise| Source: http://www.globenewswire.com/| Link:http://www.globenewswire.com/news-release/2018/04/04/1459805/0/en/ForeScout-Expands-Device-Visibility-Platform-to-Secure-the-Extended-Enterprise.html
+[TIME] Apr 04, 2018---06:06:34 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:06:35  Not Send | Ticker: [CVNA] Title: <u class="StretchedBox" data-reactid="124"></u>
+                     <!-- react-text: 125 -->Carvana Ups Car Buying Horsepower in Lexington, Offering Free Delivery
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/carvana-ups-car-buying-horsepower-100000289.html
+[TIME] Apr 04, 2018---06:06:35 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:07:05  Not Send | Ticker: [VOC] Title: <u class="StretchedBox" data-reactid="30"></u>
+                     <!-- react-text: 31 -->Textile Dyes Market Worth 9.82 Billion USD by 2022
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/textile-dyes-market-worth-9-093000826.html
+[TIME] Apr 04, 2018---06:07:06  Not Send | Ticker: [GBLX] Title: <u class="StretchedBox" data-reactid="46"></u>
+                     <!-- react-text: 47 -->GB Sciences Completes Nanotechnology Transfer of Exclusively-Licensed, Cannabinoid-Based, Time-Released Neuropathic Pain Formula
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/gb-sciences-completes-nanotechnology-transfer-093000905.html
+[TIME] Apr 04, 2018---06:07:06  Not Send | Ticker: [LNG] Title: <u class="StretchedBox" data-reactid="59"></u>
+                     <!-- react-text: 60 -->Nitrous Oxide Market Size Worth $1.47 Billion by 2025 | CAGR: 7.1%: Grand View Research, Inc.
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/nitrous-oxide-market-size-worth-092000349.html
+[TIME] Apr 04, 2018---06:07:09  Not Send | Ticker: [SEC] Title: <u class="StretchedBox" data-reactid="85"></u>
+                     <!-- react-text: 86 -->Generational Equity Advises Carbonic Systems in Sale to Airgas
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-prnewswire/?bypass=true| Link:http://finance.yahoo.com/news/generational-equity-advises-carbonic-systems-090100869.html
+[TIME] Apr 04, 2018---06:07:15 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:07:53 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:07:55 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:08:06  Not Send | Ticker: [SEC] Title: <u class="StretchedBox" data-reactid="43"></u>
+                     <!-- react-text: 44 -->Tilray&reg; Launches High Park Company™ to Produce and Distribute Adult-Use Cannabis in Canada
+                     <!-- /react-text -->| Source: http://finance.yahoo.com/news/provider-businesswire/?bypass=true| Link:http://finance.yahoo.com/news/tilray-launches-high-park-company-100000329.html
+[TIME] Apr 04, 2018---06:08:07 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:08:09 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:08:24 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true
+[TIME] Apr 04, 2018---06:08:25 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-accesswire/?bypass=true
+[TIME] Apr 04, 2018---06:10:38 *******[ E R R O R ]*******
+
+ CODE !+ 200
+http://finance.yahoo.com/news/provider-businesswire/?bypass=true

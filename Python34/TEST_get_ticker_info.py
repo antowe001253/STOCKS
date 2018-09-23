@@ -1,0 +1,20 @@
+import get_ticker_info
+
+get_ticker_info.get_info(ticker="DKS",info="Volume",display=True)
+print("="*50)
+get_ticker_info.get_info(ticker="DKS",info="Avg. Volume",display=True)
+print("="*50)
+get_ticker_info.get_info(ticker="DKS",info="Previous Close",display=True)
+print("="*50)
+get_ticker_info.get_info(ticker="DKS",info="OPEN-value",display=True)
+print("="*50)
+get_ticker_info.get_info(ticker="DKS",info="PE Ratio",display=True)
+print("="*50)
+get_ticker_info.get_info(ticker="DKS",info="Beta",display=True)
+print("="*50)
+get_ticker_info.get_info(ticker="DKS",info="Forward Dividend",display=True)
+print("="*50)
+get_ticker_info.get_info(ticker="DKS",info="Market Cap",display=True)
+print("="*50)
+get_ticker_info.price_yahoo_parsing(ticker="DKS",display=True)
+
